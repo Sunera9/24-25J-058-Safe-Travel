@@ -1,0 +1,1526 @@
+activity_type,duration,guide_availability,location,season,day_of_the_week,group_type,number_of_person,terrain_type,risk_level,price
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,199
+Hot Air Balloon,5,yes,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,272
+Surfing,5,yes,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,90
+Hiking,8,yes,Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,117
+Rock Climbing,10,yes,Ella,Off-Season,Weekend,group,5,Mountain,Medium,166
+Hiking,8,no,Horton Plains National Park,Peak Season,Weekday,solo,1,Forest/Jungle,Low,95
+Bungee Jumping,1,no,Kitulgala,Peak Season,Weekend,group,8,River/Lake,High,73
+Hiking,5,no,Adam's Peak,Off-Season,Weekend,solo,1,Mountain,Low,87
+Rock Climbing,8,yes,Horana,Peak Season,Weekend,solo,1,Urban,Medium,152
+Surfing,5,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,79
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,104
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekend,group,8,River/Lake,Medium,166
+Surfing,2,no,Arugam Bay,Peak Season,Weekend,solo,1,Beach,Low,36
+Sky Diving,5,yes,Sigiriya,Peak Season,Weekend,solo,1,Mountain,High,390
+Hiking,8,no,Knuckles,Shoulder Season,Weekday,solo,1,Mountain,Low,112
+Surfing,1,no,Unawatuna,Shoulder Season,Weekend,solo,1,Beach,Low,30
+Surfing,1,no,Arugam Bay,Off-Season,Weekend,group,6,Beach,Low,38
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekend,solo,1,River/Lake,Medium,119
+Sky Diving,5,no,Bentota,Off-Season,Weekend,solo,1,Beach,High,431
+Kayaking,5,no,Bentota,Peak Season,Weekend,solo,1,Beach,Low,82
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,122
+Paragliding,5,no,Ella,Shoulder Season,Weekend,solo,1,Mountain,High,128
+Surfing,1,no,Arugam Bay,Shoulder Season,Weekend,solo,1,Beach,Low,57
+Hot Air Balloon,5,yes,Sigiriya,Peak Season,Weekday,solo,1,Mountain,Medium,219
+Hiking,10,no,Ella,Peak Season,Weekday,group,2,Mountain,Low,113
+Hiking,8,no,Adam's Peak,Peak Season,Weekend,group,10,Mountain,Low,88
+Rock Climbing,5,yes,Ella,Shoulder Season,Weekend,group,12,Mountain,Medium,136
+Rock Climbing,8,yes,Horana,Shoulder Season,Weekday,solo,1,Urban,Medium,146
+Scuba Diving,5,no,Trincomalee,Shoulder Season,Weekend,group,6,Beach,Low,159
+Surfing,2,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,53
+Hot Air Balloon,8,no,Sigiriya,Off-Season,Weekend,group,8,Mountain,Medium,320
+Paragliding,5,no,Kalpitiya,Shoulder Season,Weekday,solo,1,Beach,High,125
+Kayaking,8,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,Low,130
+Sky Diving,5,yes,Bentota,Peak Season,Weekend,group,6,Beach,High,286
+Rock Climbing,8,yes,Ella,Peak Season,Weekday,solo,1,Mountain,Medium,132
+Surfing,2,no,Arugam Bay,Peak Season,Weekend,solo,1,Beach,Low,40
+Rock Climbing,8,yes,Horana,Peak Season,Weekend,group,12,Urban,Medium,177
+Surfing,1,no,Unawatuna,Shoulder Season,Weekend,group,6,Beach,Low,22
+Hiking,5,no,Knuckles,Peak Season,Weekday,group,5,Mountain,Low,61
+Paragliding,2,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,High,100
+Hiking,5,no,Ella,Peak Season,Weekday,group,5,Mountain,Low,71
+Surfing,1,no,Hikkaduwa,Peak Season,Weekday,group,8,Beach,Low,40
+Surfing,2,no,Arugam Bay,Peak Season,Weekend,group,12,Beach,Low,33
+Surfing,5,no,Unawatuna,Peak Season,Weekend,group,8,Beach,Low,78
+Rock Climbing,8,yes,Horana,Peak Season,Weekend,group,5,Urban,Medium,165
+Surfing,1,no,Weligama,Shoulder Season,Weekday,solo,1,Beach,Low,31
+Surfing,5,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,81
+Paragliding,5,no,Nuwara Eliya,Shoulder Season,Weekday,solo,1,Mountain,High,136
+Hiking,8,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,110
+Rock Climbing,8,yes,Knuckles,Shoulder Season,Weekday,group,12,Mountain,Medium,151
+Hiking,5,yes,Little Adam's Peak,Peak Season,Weekend,group,10,Mountain,Low,54
+Hiking,5,no,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,90
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,152
+Hiking,8,yes,Horton Plains National Park,Peak Season,Weekday,solo,1,Forest/Jungle,Low,88
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekend,group,5,Mountain,Medium,220
+Rock Climbing,5,yes,Horana,Peak Season,Weekend,solo,1,Urban,Medium,80
+Bungee Jumping,1,no,Kitulgala,Peak Season,Weekend,group,8,River/Lake,High,55
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,5,River/Lake,Medium,115
+Rock Climbing,8,yes,Pidurangala Rock,Peak Season,Weekday,solo,1,Mountain,Medium,130
+Rock Climbing,8,yes,Ella,Peak Season,Weekday,solo,1,Mountain,Medium,175
+Rock Climbing,8,no,Knuckles,Off-Season,Weekend,group,12,Mountain,Medium,134
+Rock Climbing,10,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,190
+Kayaking,2,no,Bentota,Peak Season,Weekend,solo,1,Beach,Low,55
+Hiking,10,no,Hanthana,Peak Season,Weekend,group,2,Mountain,Low,140
+Surfing,1,no,Hikkaduwa,Off-Season,Weekday,group,12,Beach,Low,50
+Hiking,8,yes,Horton Plains National Park,Peak Season,Weekday,group,2,Forest/Jungle,Low,86
+Hiking,8,no,Hanthana,Off-Season,Weekday,solo,1,Mountain,Low,110
+Surfing,5,no,Mirissa,Peak Season,Weekend,solo,1,Beach,Low,87
+Scuba Diving,8,no,Unawatuna,Peak Season,Weekend,group,12,Beach,Low,207
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,141
+Surfing,5,yes,Weligama,Peak Season,Weekend,group,10,Beach,Low,73
+Surfing,5,no,Weligama,Off-Season,Weekend,group,5,Beach,Low,71
+Rock Climbing,5,yes,Horana,Peak Season,Weekend,solo,1,Urban,Medium,100
+Hiking,5,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,64
+Hiking,10,no,World's End Trail,Peak Season,Weekday,solo,1,Forest/Jungle,Low,116
+Rock Climbing,5,yes,Knuckles,Peak Season,Weekday,solo,1,Mountain,Medium,82
+Surfing,2,no,Mirissa,Peak Season,Weekend,solo,1,Beach,Low,35
+Rock Climbing,10,yes,Kitulgala,Shoulder Season,Weekday,solo,1,River/Lake,Medium,173
+Kayaking,8,yes,Kalutara,Off-Season,Weekend,group,6,River/Lake,Low,98
+Water Rafting,2,yes,Kitulgala,Off-Season,Weekday,solo,1,River/Lake,Medium,87
+Hiking,10,no,Hanthana,Peak Season,Weekend,group,12,Mountain,Low,136
+Surfing,5,no,Mirissa,Off-Season,Weekend,solo,1,Beach,Low,82
+Hiking,5,yes,Knuckles,Peak Season,Weekend,group,10,Mountain,Low,53
+Bungee Jumping,2,yes,Knuckles,Off-Season,Weekend,solo,1,Mountain,High,69
+Hiking,10,no,Adam's Peak,Peak Season,Weekend,group,2,Mountain,Low,138
+Rock Climbing,5,no,Pidurangala Rock,Peak Season,Weekday,group,5,Mountain,Medium,116
+Rock Climbing,10,no,Pidurangala Rock,Shoulder Season,Weekend,solo,1,Mountain,Medium,173
+Surfing,1,no,Hikkaduwa,Shoulder Season,Weekend,solo,1,Beach,Low,38
+Rock Climbing,10,yes,Ella,Peak Season,Weekday,solo,1,Mountain,Medium,169
+Surfing,2,no,Mirissa,Peak Season,Weekend,group,6,Beach,Low,33
+Rock Climbing,8,yes,Knuckles,Off-Season,Weekday,solo,1,Mountain,Medium,142
+Rock Climbing,5,no,Pidurangala Rock,Peak Season,Weekday,group,5,Mountain,Medium,136
+Hiking,5,no,Knuckles,Shoulder Season,Weekday,group,10,Mountain,Low,84
+Rock Climbing,5,yes,Horana,Peak Season,Weekday,group,8,Urban,Medium,140
+Surfing,2,yes,Arugam Bay,Peak Season,Weekend,solo,1,Beach,Low,60
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,82
+Bungee Jumping,1,no,Kitulgala,Peak Season,Weekday,group,10,River/Lake,High,85
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,258
+Scuba Diving,8,no,Hikkaduwa,Peak Season,Weekday,group,10,Beach,Low,262
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekend,group,8,River/Lake,Medium,120
+Paragliding,2,yes,Ella,Off-Season,Weekday,group,10,Mountain,High,152
+Hiking,5,no,Horton Plains National Park,Peak Season,Weekday,group,12,Forest/Jungle,Low,87
+Hiking,8,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,120
+Hiking,8,yes,Adam's Peak,Shoulder Season,Weekday,solo,1,Mountain,Low,101
+Hiking,8,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,83
+Hiking,10,no,Knuckles,Peak Season,Weekday,solo,1,Mountain,Low,120
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,10,River/Lake,Medium,82
+Surfing,5,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,61
+Paragliding,2,no,Nuwara Eliya,Peak Season,Weekend,group,5,Mountain,High,111
+Hiking,5,yes,World's End Trail,Peak Season,Weekend,solo,1,Forest/Jungle,Low,74
+Hiking,5,no,Hanthana,Shoulder Season,Weekend,solo,1,Mountain,Low,76
+Paragliding,2,no,Ella,Shoulder Season,Weekend,group,6,Mountain,High,102
+Hiking,8,no,World's End Trail,Peak Season,Weekday,group,10,Forest/Jungle,Low,94
+Surfing,1,no,Mirissa,Peak Season,Weekend,solo,1,Beach,Low,51
+Hiking,10,no,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,109
+Rock Climbing,8,yes,Kitulgala,Off-Season,Weekend,solo,1,River/Lake,Medium,122
+Hiking,10,no,Adam's Peak,Peak Season,Weekday,group,12,Mountain,Low,123
+Hiking,8,no,World's End Trail,Shoulder Season,Weekday,solo,1,Forest/Jungle,Low,103
+Rock Climbing,8,no,Ella,Peak Season,Weekend,group,8,Mountain,Medium,127
+Hiking,8,yes,Sinharaja Forest Reserve,Off-Season,Weekend,solo,1,Forest/Jungle,Low,82
+Surfing,5,no,Unawatuna,Peak Season,Weekday,solo,1,Beach,Low,79
+Surfing,2,no,Arugam Bay,Off-Season,Weekday,group,2,Beach,Low,68
+Rock Climbing,10,yes,Kitulgala,Shoulder Season,Weekend,solo,1,River/Lake,Medium,134
+Surfing,2,no,Weligama,Shoulder Season,Weekend,group,8,Beach,Low,42
+Rock Climbing,5,yes,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,160
+Hiking,5,yes,Sinharaja Forest Reserve,Peak Season,Weekend,group,6,Forest/Jungle,Low,65
+Scuba Diving,8,no,Trincomalee,Peak Season,Weekday,solo,1,Beach,Low,191
+Scuba Diving,5,no,Hikkaduwa,Peak Season,Weekday,group,2,Beach,Low,218
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,76
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekend,group,8,Mountain,Medium,201
+Hiking,5,yes,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,77
+Hiking,5,yes,Hanthana,Peak Season,Weekday,group,2,Mountain,Low,72
+Surfing,5,yes,Arugam Bay,Off-Season,Weekend,group,10,Beach,Low,60
+Rock Climbing,8,no,Ella,Peak Season,Weekday,group,8,Mountain,Medium,171
+Rock Climbing,8,yes,Kitulgala,Shoulder Season,Weekday,group,5,River/Lake,Medium,167
+Surfing,1,no,Weligama,Shoulder Season,Weekend,solo,1,Beach,Low,47
+Surfing,5,yes,Weligama,Off-Season,Weekend,solo,1,Beach,Low,100
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,8,River/Lake,Medium,110
+Surfing,1,no,Unawatuna,Peak Season,Weekday,group,2,Beach,Low,54
+Surfing,2,no,Weligama,Shoulder Season,Weekend,solo,1,Beach,Low,68
+Rock Climbing,8,no,Pidurangala Rock,Shoulder Season,Weekday,solo,1,Mountain,Medium,111
+Hiking,5,no,Ella,Peak Season,Weekend,group,6,Mountain,Low,74
+Surfing,1,no,Mirissa,Peak Season,Weekend,group,10,Beach,Low,25
+Kayaking,8,no,Bolgoda,Off-Season,Weekend,solo,1,River/Lake,Low,122
+Hiking,5,yes,Sinharaja Forest Reserve,Peak Season,Weekend,solo,1,Forest/Jungle,Low,78
+Surfing,1,yes,Hikkaduwa,Shoulder Season,Weekend,solo,1,Beach,Low,60
+Rock Climbing,5,yes,Knuckles,Off-Season,Weekday,group,12,Mountain,Medium,109
+Scuba Diving,8,no,Kalpitiya,Peak Season,Weekend,group,6,Beach,Low,207
+Surfing,1,no,Hikkaduwa,Peak Season,Weekend,group,8,Beach,Low,57
+Bungee Jumping,2,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,High,87
+Rock Climbing,5,yes,Knuckles,Peak Season,Weekday,group,12,Mountain,Medium,134
+Rock Climbing,10,yes,Kitulgala,Off-Season,Weekend,solo,1,River/Lake,Medium,182
+Rock Climbing,8,yes,Horana,Off-Season,Weekend,solo,1,Urban,Medium,157
+Hiking,5,no,Ella,Peak Season,Weekend,group,5,Mountain,Low,73
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,159
+Bungee Jumping,1,yes,Knuckles,Peak Season,Weekend,group,2,Mountain,High,78
+Paragliding,2,no,Ella,Peak Season,Weekend,solo,1,Mountain,High,157
+Surfing,2,no,Arugam Bay,Peak Season,Weekend,group,8,Beach,Low,62
+Rock Climbing,5,yes,Horana,Peak Season,Weekend,group,5,Urban,Medium,110
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,111
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,195
+Surfing,2,no,Arugam Bay,Peak Season,Weekend,group,2,Beach,Low,42
+Paragliding,5,no,Kalpitiya,Peak Season,Weekday,solo,1,Beach,High,190
+Rock Climbing,8,yes,Horana,Peak Season,Weekend,group,2,Urban,Medium,190
+Sky Diving,2,no,Sigiriya,Shoulder Season,Weekday,group,6,Mountain,High,387
+Hiking,8,yes,Horton Plains National Park,Peak Season,Weekend,group,12,Forest/Jungle,Low,99
+Scuba Diving,5,no,Hikkaduwa,Shoulder Season,Weekend,group,6,Beach,Low,228
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekend,group,12,River/Lake,Medium,71
+Hiking,5,no,Knuckles,Shoulder Season,Weekday,solo,1,Mountain,Low,79
+Surfing,2,yes,Mirissa,Peak Season,Weekend,solo,1,Beach,Low,54
+Surfing,2,yes,Arugam Bay,Peak Season,Weekday,group,6,Beach,Low,47
+Hiking,8,no,Sinharaja Forest Reserve,Peak Season,Weekend,group,5,Forest/Jungle,Low,92
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekend,group,12,Mountain,Medium,144
+Hiking,5,no,World's End Trail,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,57
+Rock Climbing,10,no,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,197
+Bungee Jumping,2,no,Ella,Peak Season,Weekend,solo,1,Mountain,High,64
+Surfing,1,no,Mirissa,Shoulder Season,Weekend,solo,1,Beach,Low,26
+Hiking,10,no,Knuckles,Peak Season,Weekday,solo,1,Mountain,Low,122
+Kayaking,8,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,Low,112
+Hiking,8,yes,Ella,Off-Season,Weekday,group,12,Mountain,Low,112
+Surfing,2,no,Arugam Bay,Peak Season,Weekday,solo,1,Beach,Low,68
+Bungee Jumping,2,no,Ella,Peak Season,Weekday,group,10,Mountain,High,71
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,2,River/Lake,Medium,85
+Rock Climbing,8,yes,Knuckles,Off-Season,Weekday,group,6,Mountain,Medium,178
+Bungee Jumping,2,no,Knuckles,Peak Season,Weekday,group,2,Mountain,High,90
+Water Rafting,2,yes,Kitulgala,Off-Season,Weekday,group,6,River/Lake,Medium,69
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,2,River/Lake,Medium,60
+Paragliding,5,no,Ella,Peak Season,Weekend,solo,1,Mountain,High,125
+Rock Climbing,5,yes,Horana,Shoulder Season,Weekday,solo,1,Urban,Medium,119
+Rock Climbing,5,no,Knuckles,Shoulder Season,Weekday,group,10,Mountain,Medium,148
+Hiking,10,no,Knuckles,Peak Season,Weekend,group,5,Mountain,Low,118
+Paragliding,5,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,High,136
+Surfing,2,no,Unawatuna,Peak Season,Weekend,group,6,Beach,Low,37
+Hiking,5,yes,Knuckles,Peak Season,Weekend,group,2,Mountain,Low,56
+Rock Climbing,10,yes,Horana,Peak Season,Weekend,group,10,Urban,Medium,183
+Kayaking,5,no,Kalpitiya,Peak Season,Weekday,group,6,Beach,Low,94
+Hiking,5,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,66
+Hiking,10,no,World's End Trail,Shoulder Season,Weekday,solo,1,Forest/Jungle,Low,114
+Hiking,5,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,77
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,78
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekday,solo,1,Mountain,Medium,135
+Hiking,8,no,Knuckles,Shoulder Season,Weekday,group,12,Mountain,Low,109
+Surfing,1,no,Weligama,Peak Season,Weekend,group,2,Beach,Low,50
+Surfing,2,no,Weligama,Off-Season,Weekend,solo,1,Beach,Low,64
+Surfing,2,no,Hikkaduwa,Peak Season,Weekend,group,6,Beach,Low,67
+Rock Climbing,8,yes,Horana,Peak Season,Weekend,group,8,Urban,Medium,182
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,group,5,River/Lake,Medium,50
+Hot Air Balloon,8,yes,Sigiriya,Peak Season,Weekday,solo,1,Mountain,Medium,274
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,179
+Hiking,5,yes,Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,73
+Water Rafting,5,yes,Kitulgala,Off-Season,Weekend,solo,1,River/Lake,Medium,79
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekday,group,6,Mountain,Medium,171
+Rock Climbing,5,yes,Knuckles,Shoulder Season,Weekend,solo,1,Mountain,Medium,80
+Kayaking,2,no,Madu River,Peak Season,Weekend,group,10,River/Lake,Low,75
+Hiking,10,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,132
+Surfing,5,no,Mirissa,Off-Season,Weekend,group,10,Beach,Low,61
+Rock Climbing,10,no,Horana,Peak Season,Weekday,group,8,Urban,Medium,163
+Kayaking,2,no,Kalpitiya,Off-Season,Weekend,solo,1,Beach,Low,59
+Hiking,8,no,Little Adam's Peak,Shoulder Season,Weekend,solo,1,Mountain,Low,92
+Hiking,10,no,Ella,Shoulder Season,Weekday,group,2,Mountain,Low,106
+Scuba Diving,8,no,Batticaloa,Shoulder Season,Weekday,group,6,Beach,Low,229
+Water Rafting,2,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,44
+Rock Climbing,5,yes,Horana,Peak Season,Weekend,group,10,Urban,Medium,86
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekend,group,10,Mountain,Medium,183
+Surfing,5,no,Hikkaduwa,Peak Season,Weekend,group,5,Beach,Low,71
+Paragliding,2,yes,Ella,Off-Season,Weekend,solo,1,Mountain,High,138
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekday,solo,1,Mountain,Medium,142
+Kayaking,8,yes,Bolgoda,Peak Season,Weekend,solo,1,River/Lake,Low,141
+Paragliding,5,yes,Ella,Shoulder Season,Weekend,group,12,Mountain,High,135
+Scuba Diving,8,no,Batticaloa,Peak Season,Weekend,group,10,Beach,Low,220
+Surfing,5,no,Weligama,Peak Season,Weekday,solo,1,Beach,Low,92
+Hiking,8,no,Horton Plains National Park,Shoulder Season,Weekend,group,6,Forest/Jungle,Low,109
+Hiking,5,yes,Little Adam's Peak,Peak Season,Weekend,group,2,Mountain,Low,70
+Paragliding,5,yes,Kalpitiya,Peak Season,Weekend,group,10,Beach,High,174
+Water Rafting,5,no,Kitulgala,Shoulder Season,Weekend,group,10,River/Lake,Medium,97
+Surfing,5,no,Unawatuna,Peak Season,Weekend,group,5,Beach,Low,72
+Surfing,5,yes,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,67
+Surfing,5,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,89
+Hiking,10,no,Knuckles,Peak Season,Weekday,solo,1,Mountain,Low,111
+Surfing,1,no,Hikkaduwa,Peak Season,Weekend,group,2,Beach,Low,40
+Paragliding,5,no,Ella,Off-Season,Weekend,group,5,Mountain,High,172
+Scuba Diving,5,no,Batticaloa,Peak Season,Weekend,group,12,Beach,Low,149
+Hiking,5,no,Adam's Peak,Shoulder Season,Weekday,solo,1,Mountain,Low,59
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,group,8,Mountain,Medium,257
+Hiking,10,no,Sinharaja Forest Reserve,Peak Season,Weekend,solo,1,Forest/Jungle,Low,108
+Sky Diving,2,no,Sigiriya,Shoulder Season,Weekend,group,8,Mountain,High,280
+Surfing,5,yes,Hikkaduwa,Peak Season,Weekday,solo,1,Beach,Low,69
+Water Rafting,5,yes,Kitulgala,Off-Season,Weekend,group,5,River/Lake,Medium,77
+Paragliding,2,no,Kalpitiya,Off-Season,Weekend,group,5,Beach,High,128
+Sky Diving,2,yes,Ampara,Peak Season,Weekday,solo,1,Urban,High,284
+Hiking,10,no,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,127
+Bungee Jumping,2,no,Colombo,Shoulder Season,Weekend,group,8,Urban,High,70
+Rock Climbing,10,yes,Horana,Peak Season,Weekday,solo,1,Urban,Medium,205
+Water Rafting,2,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,47
+Kayaking,2,no,Kalutara,Peak Season,Weekend,solo,1,River/Lake,Low,45
+Kayaking,5,yes,Kalpitiya,Peak Season,Weekend,solo,1,Beach,Low,96
+Surfing,2,yes,Weligama,Peak Season,Weekday,solo,1,Beach,Low,70
+Rock Climbing,5,yes,Ella,Shoulder Season,Weekend,solo,1,Mountain,Medium,86
+Rock Climbing,5,yes,Horana,Peak Season,Weekday,group,10,Urban,Medium,149
+Hot Air Balloon,5,no,Sigiriya,Off-Season,Weekday,solo,1,Mountain,Medium,263
+Hiking,5,no,Sinharaja Forest Reserve,Shoulder Season,Weekday,solo,1,Forest/Jungle,Low,83
+Rock Climbing,10,yes,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,182
+Water Rafting,5,yes,Kitulgala,Off-Season,Weekday,group,5,River/Lake,Medium,76
+Bungee Jumping,2,no,Ella,Shoulder Season,Weekday,solo,1,Mountain,High,85
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,12,River/Lake,Medium,74
+Rock Climbing,10,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,204
+Hiking,5,no,Sinharaja Forest Reserve,Peak Season,Weekday,solo,1,Forest/Jungle,Low,74
+Hiking,5,no,World's End Trail,Shoulder Season,Weekend,group,10,Forest/Jungle,Low,61
+Surfing,2,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,56
+Surfing,1,no,Weligama,Shoulder Season,Weekday,group,12,Beach,Low,40
+Rock Climbing,8,yes,Horana,Peak Season,Weekday,solo,1,Urban,Medium,176
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekday,group,6,River/Lake,Medium,119
+Paragliding,2,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,High,121
+Rock Climbing,8,no,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,114
+Rock Climbing,8,no,Horana,Shoulder Season,Weekday,solo,1,Urban,Medium,134
+Kayaking,5,yes,Madu River,Shoulder Season,Weekend,group,12,River/Lake,Low,113
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,119
+Surfing,5,yes,Arugam Bay,Shoulder Season,Weekend,solo,1,Beach,Low,68
+Surfing,1,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,37
+Surfing,1,yes,Unawatuna,Peak Season,Weekend,group,2,Beach,Low,26
+Water Rafting,5,yes,Kitulgala,Off-Season,Weekday,group,8,River/Lake,Medium,102
+Paragliding,2,no,Nuwara Eliya,Off-Season,Weekend,group,8,Mountain,High,121
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,66
+Bungee Jumping,1,no,Kitulgala,Peak Season,Weekday,group,12,River/Lake,High,67
+Surfing,5,no,Weligama,Shoulder Season,Weekday,group,5,Beach,Low,85
+Rock Climbing,8,no,Ella,Shoulder Season,Weekend,solo,1,Mountain,Medium,151
+Hiking,8,no,Ella,Peak Season,Weekend,solo,1,Mountain,Low,116
+Scuba Diving,5,no,Unawatuna,Shoulder Season,Weekend,group,2,Beach,Low,214
+Hiking,8,no,Adam's Peak,Peak Season,Weekday,group,6,Mountain,Low,91
+Surfing,2,no,Unawatuna,Peak Season,Weekday,solo,1,Beach,Low,60
+Hiking,8,no,Horton Plains National Park,Peak Season,Weekday,solo,1,Forest/Jungle,Low,102
+Hiking,10,yes,Adam's Peak,Peak Season,Weekend,group,12,Mountain,Low,125
+Water Rafting,2,no,Kitulgala,Peak Season,Weekend,group,12,River/Lake,Medium,50
+Hiking,10,no,Hanthana,Peak Season,Weekday,group,8,Mountain,Low,137
+Surfing,2,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,67
+Bungee Jumping,2,no,Kitulgala,Peak Season,Weekday,group,2,River/Lake,High,80
+Hiking,8,yes,Adam's Peak,Shoulder Season,Weekday,solo,1,Mountain,Low,115
+Hiking,5,yes,Knuckles,Peak Season,Weekend,group,10,Mountain,Low,63
+Water Rafting,5,no,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,96
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,group,12,Mountain,Medium,150
+Surfing,1,no,Hikkaduwa,Peak Season,Weekend,group,10,Beach,Low,49
+Hiking,5,no,Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,71
+Hiking,10,no,World's End Trail,Peak Season,Weekend,solo,1,Forest/Jungle,Low,130
+Hiking,8,no,Hanthana,Off-Season,Weekday,group,6,Mountain,Low,102
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,99
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,62
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,8,River/Lake,Medium,47
+Scuba Diving,5,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,158
+Hiking,10,no,Ella,Peak Season,Weekend,solo,1,Mountain,Low,134
+Kayaking,2,no,Kalpitiya,Peak Season,Weekday,solo,1,Beach,Low,40
+Rock Climbing,5,no,Ella,Shoulder Season,Weekend,group,5,Mountain,Medium,110
+Scuba Diving,8,no,Trincomalee,Peak Season,Weekend,group,2,Beach,Low,207
+Paragliding,2,no,Nuwara Eliya,Peak Season,Weekend,group,8,Mountain,High,99
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekend,group,8,River/Lake,Medium,81
+Hiking,5,no,World's End Trail,Off-Season,Weekday,solo,1,Forest/Jungle,Low,60
+Hot Air Balloon,5,no,Sigiriya,Shoulder Season,Weekend,group,12,Mountain,Medium,204
+Paragliding,5,yes,Nuwara Eliya,Peak Season,Weekend,solo,1,Mountain,High,152
+Hiking,5,no,Sinharaja Forest Reserve,Peak Season,Weekday,solo,1,Forest/Jungle,Low,77
+Hiking,8,yes,Adam's Peak,Peak Season,Weekend,group,8,Mountain,Low,102
+Bungee Jumping,1,no,Colombo,Shoulder Season,Weekend,group,12,Urban,High,79
+Hiking,8,yes,Horton Plains National Park,Peak Season,Weekday,solo,1,Forest/Jungle,Low,85
+Hiking,8,no,Ella,Peak Season,Weekend,solo,1,Mountain,Low,111
+Surfing,2,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,37
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,59
+Hiking,5,no,Ella,Peak Season,Weekend,group,12,Mountain,Low,53
+Paragliding,2,no,Nuwara Eliya,Peak Season,Weekend,group,5,Mountain,High,90
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekend,group,10,River/Lake,Medium,175
+Rock Climbing,8,no,Knuckles,Off-Season,Weekend,group,2,Mountain,Medium,146
+Bungee Jumping,2,no,Colombo,Shoulder Season,Weekday,group,10,Urban,High,73
+Rock Climbing,10,yes,Knuckles,Shoulder Season,Weekend,group,6,Mountain,Medium,154
+Rock Climbing,10,yes,Knuckles,Shoulder Season,Weekend,group,12,Mountain,Medium,198
+Hiking,10,yes,Horton Plains National Park,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,118
+Hiking,10,no,Ella,Peak Season,Weekday,solo,1,Mountain,Low,112
+Surfing,1,no,Arugam Bay,Peak Season,Weekend,group,6,Beach,Low,23
+Rock Climbing,5,no,Ella,Peak Season,Weekend,group,12,Mountain,Medium,108
+Surfing,2,no,Arugam Bay,Shoulder Season,Weekend,group,10,Beach,Low,65
+Rock Climbing,5,yes,Horana,Peak Season,Weekday,group,5,Urban,Medium,138
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,65
+Rock Climbing,5,yes,Pidurangala Rock,Off-Season,Weekend,solo,1,Mountain,Medium,155
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekday,group,8,Mountain,Medium,174
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,74
+Hiking,5,no,Ella,Peak Season,Weekend,solo,1,Mountain,Low,53
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekend,group,12,River/Lake,Medium,168
+Surfing,1,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,50
+Hiking,8,no,Adam's Peak,Peak Season,Weekday,group,6,Mountain,Low,84
+Surfing,1,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,53
+Rock Climbing,10,no,Horana,Peak Season,Weekday,group,8,Urban,Medium,167
+Bungee Jumping,1,yes,Kitulgala,Shoulder Season,Weekend,group,10,River/Lake,High,54
+Bungee Jumping,1,no,Colombo,Peak Season,Weekend,solo,1,Urban,High,80
+Sky Diving,5,yes,Bentota,Peak Season,Weekend,solo,1,Beach,High,272
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekday,group,6,River/Lake,Medium,70
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,110
+Sky Diving,2,yes,Ella,Peak Season,Weekend,solo,1,Mountain,High,304
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,group,2,Mountain,Medium,132
+Kayaking,2,yes,Madu River,Peak Season,Weekend,group,6,River/Lake,Low,55
+Kayaking,5,no,Bentota,Shoulder Season,Weekend,group,12,Beach,Low,88
+Hiking,8,no,Sinharaja Forest Reserve,Peak Season,Weekend,group,12,Forest/Jungle,Low,91
+Hiking,10,no,Ella,Peak Season,Weekend,group,10,Mountain,Low,132
+Surfing,1,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,48
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,6,River/Lake,Medium,43
+Hiking,10,yes,Horton Plains National Park,Shoulder Season,Weekday,solo,1,Forest/Jungle,Low,133
+Bungee Jumping,2,yes,Colombo,Peak Season,Weekend,group,10,Urban,High,66
+Hiking,5,no,Knuckles,Off-Season,Weekday,group,8,Mountain,Low,54
+Surfing,5,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,78
+Kayaking,5,no,Bentota,Peak Season,Weekday,group,5,Beach,Low,75
+Paragliding,5,no,Ella,Off-Season,Weekday,solo,1,Mountain,High,187
+Hiking,10,yes,Adam's Peak,Peak Season,Weekend,group,6,Mountain,Low,106
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekend,solo,1,River/Lake,Medium,81
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekend,group,5,Mountain,Medium,279
+Hiking,5,yes,Adam's Peak,Peak Season,Weekday,group,12,Mountain,Low,69
+Hiking,5,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,58
+Sky Diving,5,no,Sigiriya,Peak Season,Weekend,group,8,Mountain,High,246
+Rock Climbing,10,yes,Pidurangala Rock,Peak Season,Weekday,solo,1,Mountain,Medium,198
+Hiking,8,yes,Knuckles,Peak Season,Weekday,solo,1,Mountain,Low,112
+Hiking,5,yes,Little Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,53
+Rock Climbing,8,no,Pidurangala Rock,Peak Season,Weekend,group,2,Mountain,Medium,121
+Rock Climbing,5,yes,Ella,Shoulder Season,Weekend,group,5,Mountain,Medium,80
+Rock Climbing,10,no,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,139
+Rock Climbing,10,yes,Ella,Shoulder Season,Weekday,solo,1,Mountain,Medium,150
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,103
+Hot Air Balloon,8,no,Sigiriya,Off-Season,Weekday,solo,1,Mountain,Medium,228
+Surfing,5,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,62
+Hiking,10,yes,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,134
+Water Rafting,5,no,Kitulgala,Shoulder Season,Weekend,solo,1,River/Lake,Medium,80
+Hiking,8,no,World's End Trail,Peak Season,Weekend,group,12,Forest/Jungle,Low,115
+Hiking,10,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,111
+Sky Diving,5,yes,Bentota,Peak Season,Weekday,group,8,Beach,High,327
+Hot Air Balloon,8,no,Sigiriya,Off-Season,Weekend,solo,1,Mountain,Medium,266
+Surfing,2,no,Mirissa,Off-Season,Weekend,group,8,Beach,Low,31
+Hiking,8,no,Knuckles,Peak Season,Weekday,group,10,Mountain,Low,96
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,10,River/Lake,Medium,108
+Hiking,5,no,Ella,Peak Season,Weekday,solo,1,Mountain,Low,82
+Rock Climbing,8,yes,Pidurangala Rock,Shoulder Season,Weekday,solo,1,Mountain,Medium,133
+Bungee Jumping,2,no,Ella,Peak Season,Weekend,group,12,Mountain,High,67
+Hiking,10,yes,Sinharaja Forest Reserve,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,125
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,144
+Surfing,2,yes,Weligama,Peak Season,Weekend,group,6,Beach,Low,57
+Sky Diving,5,yes,Bentota,Off-Season,Weekday,solo,1,Beach,High,271
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,279
+Surfing,2,no,Unawatuna,Off-Season,Weekend,group,8,Beach,Low,42
+Surfing,2,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,35
+Hiking,5,yes,Horton Plains National Park,Peak Season,Weekday,solo,1,Forest/Jungle,Low,71
+Hot Air Balloon,5,no,Sigiriya,Shoulder Season,Weekday,group,12,Mountain,Medium,248
+Hiking,10,yes,Sinharaja Forest Reserve,Off-Season,Weekend,solo,1,Forest/Jungle,Low,118
+Paragliding,5,yes,Kalpitiya,Off-Season,Weekend,group,8,Beach,High,136
+Hiking,8,no,Sinharaja Forest Reserve,Peak Season,Weekend,solo,1,Forest/Jungle,Low,96
+Paragliding,2,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,High,142
+Rock Climbing,5,no,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,115
+Hiking,10,no,Ella,Shoulder Season,Weekday,group,10,Mountain,Low,134
+Bungee Jumping,1,yes,Colombo,Peak Season,Weekend,solo,1,Urban,High,81
+Surfing,1,no,Mirissa,Peak Season,Weekday,group,2,Beach,Low,39
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekday,group,2,River/Lake,Medium,148
+Kayaking,5,no,Kalpitiya,Peak Season,Weekend,group,10,Beach,Low,71
+Rock Climbing,8,yes,Knuckles,Shoulder Season,Weekend,group,6,Mountain,Medium,185
+Rock Climbing,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,154
+Hiking,8,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,80
+Surfing,2,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,58
+Water Rafting,2,yes,Kitulgala,Off-Season,Weekend,group,2,River/Lake,Medium,75
+Rock Climbing,8,yes,Kitulgala,Shoulder Season,Weekend,group,8,River/Lake,Medium,119
+Surfing,2,no,Mirissa,Peak Season,Weekend,solo,1,Beach,Low,34
+Hiking,10,yes,World's End Trail,Peak Season,Weekend,group,10,Forest/Jungle,Low,117
+Surfing,1,yes,Weligama,Off-Season,Weekday,solo,1,Beach,Low,58
+Water Rafting,2,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,57
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,77
+Rock Climbing,8,yes,Horana,Off-Season,Weekend,solo,1,Urban,Medium,118
+Hiking,10,no,Adam's Peak,Peak Season,Weekend,group,8,Mountain,Low,121
+Surfing,2,no,Weligama,Peak Season,Weekend,group,12,Beach,Low,36
+Surfing,1,no,Arugam Bay,Peak Season,Weekend,solo,1,Beach,Low,36
+Rock Climbing,5,no,Ella,Peak Season,Weekend,group,8,Mountain,Medium,135
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekend,group,12,River/Lake,Medium,90
+Scuba Diving,8,no,Hikkaduwa,Peak Season,Weekday,group,2,Beach,Low,194
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekday,group,8,Mountain,Medium,143
+Hiking,8,no,Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,86
+Hiking,5,no,Ella,Peak Season,Weekend,solo,1,Mountain,Low,85
+Scuba Diving,5,no,Batticaloa,Peak Season,Weekend,solo,1,Beach,Low,167
+Scuba Diving,8,yes,Unawatuna,Peak Season,Weekend,group,10,Beach,Low,231
+Paragliding,2,no,Nuwara Eliya,Peak Season,Weekend,solo,1,Mountain,High,149
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekend,group,5,Mountain,Medium,265
+Bungee Jumping,2,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,High,66
+Scuba Diving,8,no,Batticaloa,Peak Season,Weekday,group,8,Beach,Low,210
+Surfing,5,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,88
+Surfing,1,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,44
+Rock Climbing,8,yes,Ella,Shoulder Season,Weekday,group,10,Mountain,Medium,159
+Hiking,10,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,112
+Paragliding,5,no,Kalpitiya,Shoulder Season,Weekday,group,10,Beach,High,137
+Surfing,2,no,Hikkaduwa,Peak Season,Weekend,group,2,Beach,Low,51
+Hiking,10,no,Sinharaja Forest Reserve,Off-Season,Weekend,group,8,Forest/Jungle,Low,110
+Hiking,8,no,Little Adam's Peak,Shoulder Season,Weekend,solo,1,Mountain,Low,97
+Rock Climbing,10,yes,Horana,Off-Season,Weekend,group,6,Urban,Medium,197
+Surfing,5,no,Mirissa,Peak Season,Weekend,group,2,Beach,Low,85
+Bungee Jumping,1,no,Colombo,Peak Season,Weekday,solo,1,Urban,High,85
+Kayaking,8,no,Kalutara,Peak Season,Weekday,solo,1,River/Lake,Low,145
+Scuba Diving,8,no,Batticaloa,Peak Season,Weekday,group,12,Beach,Low,207
+Surfing,5,yes,Hikkaduwa,Peak Season,Weekend,group,5,Beach,Low,98
+Rock Climbing,8,no,Horana,Off-Season,Weekend,group,8,Urban,Medium,118
+Hiking,10,no,Ella,Peak Season,Weekend,group,5,Mountain,Low,105
+Water Rafting,5,no,Kitulgala,Off-Season,Weekday,solo,1,River/Lake,Medium,98
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,145
+Hiking,5,yes,Horton Plains National Park,Peak Season,Weekend,group,2,Forest/Jungle,Low,59
+Paragliding,5,no,Kalpitiya,Peak Season,Weekend,group,10,Beach,High,139
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,80
+Sky Diving,5,no,Ella,Peak Season,Weekend,group,12,Mountain,High,277
+Surfing,1,no,Weligama,Peak Season,Weekend,group,8,Beach,Low,42
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekday,solo,1,Mountain,Medium,186
+Scuba Diving,5,no,Batticaloa,Shoulder Season,Weekend,group,12,Beach,Low,222
+Kayaking,5,no,Bolgoda,Peak Season,Weekday,solo,1,River/Lake,Low,96
+Rock Climbing,5,no,Kitulgala,Off-Season,Weekend,group,8,River/Lake,Medium,122
+Hot Air Balloon,8,no,Sigiriya,Off-Season,Weekday,solo,1,Mountain,Medium,228
+Hiking,5,no,Adam's Peak,Peak Season,Weekend,group,6,Mountain,Low,78
+Rock Climbing,10,yes,Knuckles,Off-Season,Weekend,group,12,Mountain,Medium,147
+Paragliding,2,yes,Kalpitiya,Shoulder Season,Weekday,group,2,Beach,High,134
+Hiking,10,no,Ella,Peak Season,Weekend,group,12,Mountain,Low,126
+Surfing,1,no,Weligama,Peak Season,Weekend,group,2,Beach,Low,47
+Bungee Jumping,1,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,High,92
+Surfing,2,no,Weligama,Peak Season,Weekend,group,12,Beach,Low,60
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,8,River/Lake,Medium,88
+Rock Climbing,8,yes,Horana,Peak Season,Weekend,solo,1,Urban,Medium,179
+Scuba Diving,5,no,Batticaloa,Peak Season,Weekend,group,5,Beach,Low,162
+Surfing,5,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,61
+Hiking,8,no,Ella,Peak Season,Weekend,group,6,Mountain,Low,115
+Bungee Jumping,1,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,High,70
+Rock Climbing,10,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,134
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,85
+Hot Air Balloon,8,no,Sigiriya,Off-Season,Weekend,solo,1,Mountain,Medium,226
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekday,group,12,Mountain,Medium,226
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,153
+Kayaking,8,no,Kalpitiya,Peak Season,Weekday,group,12,Beach,Low,113
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekday,group,5,Mountain,Medium,142
+Rock Climbing,8,no,Knuckles,Off-Season,Weekend,solo,1,Mountain,Medium,126
+Water Rafting,5,no,Kitulgala,Peak Season,Weekend,group,10,River/Lake,Medium,98
+Rock Climbing,5,no,Knuckles,Peak Season,Weekday,solo,1,Mountain,Medium,102
+Scuba Diving,8,no,Trincomalee,Peak Season,Weekend,solo,1,Beach,Low,230
+Rock Climbing,5,yes,Horana,Peak Season,Weekend,group,5,Urban,Medium,154
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,146
+Surfing,5,no,Weligama,Off-Season,Weekend,group,5,Beach,Low,63
+Hiking,10,no,World's End Trail,Peak Season,Weekday,group,5,Forest/Jungle,Low,120
+Hiking,8,no,Ella,Peak Season,Weekend,group,6,Mountain,Low,102
+Kayaking,5,no,Kalpitiya,Off-Season,Weekday,group,6,Beach,Low,77
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekday,solo,1,Mountain,Medium,155
+Paragliding,5,yes,Ella,Peak Season,Weekend,solo,1,Mountain,High,141
+Surfing,5,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,61
+Surfing,5,no,Weligama,Off-Season,Weekend,solo,1,Beach,Low,89
+Hiking,10,no,Horton Plains National Park,Off-Season,Weekend,group,12,Forest/Jungle,Low,130
+Hiking,5,no,World's End Trail,Peak Season,Weekend,group,6,Forest/Jungle,Low,81
+Rock Climbing,5,yes,Knuckles,Peak Season,Weekend,group,5,Mountain,Medium,151
+Paragliding,5,no,Nuwara Eliya,Off-Season,Weekend,group,8,Mountain,High,156
+Rock Climbing,8,yes,Pidurangala Rock,Peak Season,Weekend,group,5,Mountain,Medium,116
+Hiking,5,no,Adam's Peak,Peak Season,Weekend,group,5,Mountain,Low,77
+Scuba Diving,5,no,Batticaloa,Shoulder Season,Weekday,group,6,Beach,Low,199
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekday,group,10,Mountain,Medium,231
+Surfing,1,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,51
+Surfing,2,no,Mirissa,Peak Season,Weekend,group,8,Beach,Low,64
+Hiking,10,no,Sinharaja Forest Reserve,Peak Season,Weekday,solo,1,Forest/Jungle,Low,132
+Hot Air Balloon,5,yes,Sigiriya,Shoulder Season,Weekend,solo,1,Mountain,Medium,192
+Hiking,10,no,Knuckles,Shoulder Season,Weekend,group,2,Mountain,Low,136
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,group,5,River/Lake,Medium,51
+Surfing,1,no,Hikkaduwa,Peak Season,Weekend,group,12,Beach,Low,51
+Hiking,5,no,Adam's Peak,Peak Season,Weekend,group,6,Mountain,Low,52
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,112
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,5,River/Lake,Medium,56
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekend,group,10,Mountain,Medium,187
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekday,solo,1,Mountain,Medium,136
+Hiking,5,no,Hanthana,Shoulder Season,Weekend,solo,1,Mountain,Low,52
+Water Rafting,2,yes,Kitulgala,Off-Season,Weekend,solo,1,River/Lake,Medium,75
+Scuba Diving,5,no,Unawatuna,Peak Season,Weekday,solo,1,Beach,Low,149
+Hiking,8,no,Little Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,96
+Kayaking,2,no,Madu River,Peak Season,Weekend,group,12,River/Lake,Low,35
+Rock Climbing,10,yes,Ella,Peak Season,Weekend,group,12,Mountain,Medium,194
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,group,2,Mountain,Medium,209
+Rock Climbing,5,yes,Horana,Shoulder Season,Weekend,group,12,Urban,Medium,95
+Hiking,5,no,Ella,Peak Season,Weekday,group,12,Mountain,Low,83
+Hiking,5,no,Sinharaja Forest Reserve,Peak Season,Weekend,solo,1,Forest/Jungle,Low,82
+Hot Air Balloon,5,no,Sigiriya,Off-Season,Weekday,group,5,Mountain,Medium,237
+Scuba Diving,5,no,Kalpitiya,Shoulder Season,Weekend,group,10,Beach,Low,167
+Hiking,8,yes,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,102
+Surfing,5,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,87
+Rock Climbing,5,yes,Horana,Off-Season,Weekend,solo,1,Urban,Medium,103
+Surfing,5,no,Unawatuna,Peak Season,Weekend,group,5,Beach,Low,95
+Hiking,8,yes,Little Adam's Peak,Shoulder Season,Weekend,solo,1,Mountain,Low,110
+Paragliding,5,yes,Ella,Peak Season,Weekend,group,8,Mountain,High,127
+Surfing,1,no,Unawatuna,Off-Season,Weekend,solo,1,Beach,Low,54
+Surfing,5,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,75
+Rock Climbing,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,131
+Hiking,10,yes,Adam's Peak,Peak Season,Weekend,group,10,Mountain,Low,133
+Hiking,10,no,Horton Plains National Park,Shoulder Season,Weekend,group,8,Forest/Jungle,Low,112
+Hot Air Balloon,8,no,Sigiriya,Shoulder Season,Weekend,solo,1,Mountain,Medium,277
+Rock Climbing,8,no,Pidurangala Rock,Shoulder Season,Weekend,group,5,Mountain,Medium,152
+Paragliding,5,no,Kalpitiya,Peak Season,Weekday,solo,1,Beach,High,160
+Bungee Jumping,2,yes,Knuckles,Peak Season,Weekday,solo,1,Mountain,High,65
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,108
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekday,group,8,Mountain,Low,58
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,101
+Surfing,5,yes,Arugam Bay,Peak Season,Weekend,solo,1,Beach,Low,85
+Water Rafting,5,yes,Kitulgala,Off-Season,Weekend,solo,1,River/Lake,Medium,73
+Bungee Jumping,1,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,High,73
+Paragliding,2,yes,Nuwara Eliya,Peak Season,Weekend,group,12,Mountain,High,96
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,202
+Hiking,5,no,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,53
+Hiking,8,no,Adam's Peak,Peak Season,Weekend,group,2,Mountain,Low,119
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,8,River/Lake,Medium,78
+Bungee Jumping,2,yes,Colombo,Off-Season,Weekday,solo,1,Urban,High,83
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,179
+Surfing,5,no,Mirissa,Peak Season,Weekday,group,12,Beach,Low,85
+Water Rafting,2,no,Kitulgala,Off-Season,Weekend,solo,1,River/Lake,Medium,71
+Hot Air Balloon,8,no,Sigiriya,Shoulder Season,Weekday,solo,1,Mountain,Medium,233
+Paragliding,2,no,Nuwara Eliya,Shoulder Season,Weekday,group,6,Mountain,High,132
+Hiking,10,no,Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,115
+Hot Air Balloon,5,yes,Sigiriya,Peak Season,Weekday,group,2,Mountain,Medium,288
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekend,group,5,River/Lake,Medium,144
+Surfing,2,no,Mirissa,Peak Season,Weekend,solo,1,Beach,Low,70
+Hiking,10,no,Sinharaja Forest Reserve,Off-Season,Weekend,solo,1,Forest/Jungle,Low,139
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekday,group,6,Mountain,Medium,155
+Rock Climbing,5,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,117
+Surfing,5,no,Arugam Bay,Peak Season,Weekday,group,6,Beach,Low,95
+Hiking,5,no,Horton Plains National Park,Off-Season,Weekend,group,10,Forest/Jungle,Low,50
+Hiking,8,no,Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,89
+Hot Air Balloon,8,no,Sigiriya,Off-Season,Weekday,solo,1,Mountain,Medium,282
+Paragliding,5,yes,Nuwara Eliya,Shoulder Season,Weekday,group,2,Mountain,High,128
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,174
+Surfing,2,yes,Weligama,Peak Season,Weekend,group,12,Beach,Low,32
+Hiking,10,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,109
+Hiking,10,no,Horton Plains National Park,Peak Season,Weekday,group,6,Forest/Jungle,Low,107
+Rock Climbing,10,no,Kitulgala,Peak Season,Weekend,group,5,River/Lake,Medium,210
+Surfing,1,no,Weligama,Peak Season,Weekend,group,10,Beach,Low,59
+Water Rafting,2,no,Kitulgala,Shoulder Season,Weekend,solo,1,River/Lake,Medium,88
+Rock Climbing,10,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,186
+Hiking,8,yes,Sinharaja Forest Reserve,Off-Season,Weekend,solo,1,Forest/Jungle,Low,97
+Surfing,5,no,Arugam Bay,Peak Season,Weekday,group,12,Beach,Low,63
+Surfing,5,no,Hikkaduwa,Peak Season,Weekend,group,10,Beach,Low,87
+Kayaking,2,no,Kalpitiya,Peak Season,Weekday,group,12,Beach,Low,40
+Kayaking,5,no,Madu River,Peak Season,Weekend,solo,1,River/Lake,Low,77
+Surfing,1,no,Unawatuna,Peak Season,Weekday,solo,1,Beach,Low,46
+Scuba Diving,5,no,Hikkaduwa,Shoulder Season,Weekend,group,10,Beach,Low,155
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,294
+Surfing,5,no,Hikkaduwa,Peak Season,Weekend,group,2,Beach,Low,73
+Rock Climbing,10,yes,Pidurangala Rock,Off-Season,Weekday,group,5,Mountain,Medium,152
+Bungee Jumping,2,yes,Kitulgala,Peak Season,Weekend,group,5,River/Lake,High,84
+Hiking,5,yes,Hanthana,Peak Season,Weekend,group,12,Mountain,Low,66
+Paragliding,2,no,Ella,Peak Season,Weekday,group,5,Mountain,High,95
+Surfing,1,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,43
+Scuba Diving,5,no,Hikkaduwa,Off-Season,Weekend,group,10,Beach,Low,203
+Hiking,8,no,World's End Trail,Shoulder Season,Weekday,solo,1,Forest/Jungle,Low,96
+Surfing,1,no,Mirissa,Peak Season,Weekend,group,5,Beach,Low,35
+Hiking,8,yes,Horton Plains National Park,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,114
+Surfing,5,yes,Arugam Bay,Peak Season,Weekday,group,6,Beach,Low,90
+Hiking,5,no,Sinharaja Forest Reserve,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,64
+Hiking,10,yes,World's End Trail,Peak Season,Weekday,solo,1,Forest/Jungle,Low,118
+Hiking,5,yes,Knuckles,Peak Season,Weekday,solo,1,Mountain,Low,67
+Scuba Diving,5,no,Unawatuna,Shoulder Season,Weekday,solo,1,Beach,Low,173
+Surfing,1,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,28
+Rock Climbing,5,yes,Knuckles,Off-Season,Weekday,solo,1,Mountain,Medium,119
+Water Rafting,5,yes,Kitulgala,Off-Season,Weekend,solo,1,River/Lake,Medium,105
+Surfing,1,yes,Mirissa,Peak Season,Weekend,group,6,Beach,Low,28
+Scuba Diving,5,yes,Kalpitiya,Off-Season,Weekend,solo,1,Beach,Low,201
+Paragliding,5,no,Kalpitiya,Off-Season,Weekday,solo,1,Beach,High,146
+Surfing,1,no,Weligama,Peak Season,Weekday,solo,1,Beach,Low,33
+Rock Climbing,10,yes,Horana,Peak Season,Weekday,solo,1,Urban,Medium,190
+Hiking,5,no,Adam's Peak,Peak Season,Weekend,group,6,Mountain,Low,56
+Hiking,5,no,Ella,Peak Season,Weekday,group,12,Mountain,Low,81
+Rock Climbing,10,yes,Ella,Peak Season,Weekday,solo,1,Mountain,Medium,161
+Paragliding,2,no,Kalpitiya,Peak Season,Weekend,group,8,Beach,High,119
+Rock Climbing,8,yes,Ella,Shoulder Season,Weekday,group,2,Mountain,Medium,187
+Hiking,10,yes,Adam's Peak,Peak Season,Weekday,group,2,Mountain,Low,140
+Kayaking,2,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,Low,35
+Bungee Jumping,2,no,Colombo,Peak Season,Weekend,solo,1,Urban,High,70
+Surfing,1,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,56
+Bungee Jumping,1,yes,Kitulgala,Shoulder Season,Weekend,group,5,River/Lake,High,98
+Sky Diving,5,no,Sigiriya,Shoulder Season,Weekday,solo,1,Mountain,High,243
+Water Rafting,5,yes,Kitulgala,Off-Season,Weekend,group,5,River/Lake,Medium,97
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekday,group,2,Mountain,Low,67
+Water Rafting,2,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,80
+Kayaking,8,yes,Madu River,Shoulder Season,Weekend,solo,1,River/Lake,Low,112
+Surfing,2,no,Mirissa,Peak Season,Weekend,group,12,Beach,Low,69
+Paragliding,2,no,Nuwara Eliya,Peak Season,Weekend,group,12,Mountain,High,130
+Hiking,10,no,Little Adam's Peak,Peak Season,Weekend,group,12,Mountain,Low,140
+Hot Air Balloon,5,no,Sigiriya,Shoulder Season,Weekday,group,6,Mountain,Medium,229
+Hiking,5,no,Sinharaja Forest Reserve,Peak Season,Weekday,solo,1,Forest/Jungle,Low,59
+Rock Climbing,5,no,Pidurangala Rock,Off-Season,Weekend,group,2,Mountain,Medium,109
+Kayaking,8,yes,Bentota,Shoulder Season,Weekend,group,2,Beach,Low,136
+Hiking,10,no,World's End Trail,Shoulder Season,Weekday,group,6,Forest/Jungle,Low,103
+Surfing,1,yes,Weligama,Peak Season,Weekend,solo,1,Beach,Low,40
+Paragliding,5,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,High,164
+Surfing,1,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,41
+Rock Climbing,10,yes,Ella,Off-Season,Weekend,solo,1,Mountain,Medium,173
+Scuba Diving,5,no,Hikkaduwa,Peak Season,Weekday,solo,1,Beach,Low,212
+Hiking,5,no,Knuckles,Off-Season,Weekend,group,6,Mountain,Low,66
+Rock Climbing,10,yes,Horana,Shoulder Season,Weekend,group,5,Urban,Medium,154
+Hiking,10,no,Adam's Peak,Peak Season,Weekday,group,12,Mountain,Low,130
+Surfing,2,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,47
+Rock Climbing,10,yes,Pidurangala Rock,Peak Season,Weekend,group,12,Mountain,Medium,193
+Water Rafting,2,yes,Kitulgala,Off-Season,Weekday,solo,1,River/Lake,Medium,67
+Rock Climbing,8,yes,Kitulgala,Shoulder Season,Weekday,group,2,River/Lake,Medium,136
+Surfing,1,no,Weligama,Peak Season,Weekday,solo,1,Beach,Low,27
+Water Rafting,5,no,Kitulgala,Shoulder Season,Weekday,group,2,River/Lake,Medium,74
+Scuba Diving,8,no,Kalpitiya,Shoulder Season,Weekday,group,5,Beach,Low,229
+Rock Climbing,5,yes,Knuckles,Peak Season,Weekday,group,10,Mountain,Medium,134
+Rock Climbing,8,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,185
+Rock Climbing,10,no,Horana,Peak Season,Weekday,group,8,Urban,Medium,145
+Rock Climbing,10,yes,Horana,Peak Season,Weekend,group,2,Urban,Medium,200
+Surfing,1,no,Mirissa,Shoulder Season,Weekend,solo,1,Beach,Low,43
+Rock Climbing,8,yes,Kitulgala,Shoulder Season,Weekday,solo,1,River/Lake,Medium,134
+Scuba Diving,8,yes,Unawatuna,Off-Season,Weekday,group,10,Beach,Low,206
+Sky Diving,2,yes,Sigiriya,Shoulder Season,Weekend,group,8,Mountain,High,322
+Surfing,5,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,66
+Hiking,5,no,World's End Trail,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,63
+Rock Climbing,8,yes,Horana,Off-Season,Weekend,solo,1,Urban,Medium,155
+Rock Climbing,5,no,Pidurangala Rock,Off-Season,Weekend,solo,1,Mountain,Medium,128
+Paragliding,5,no,Kalpitiya,Peak Season,Weekend,group,12,Beach,High,172
+Rock Climbing,8,yes,Knuckles,Shoulder Season,Weekend,group,8,Mountain,Medium,125
+Paragliding,2,yes,Nuwara Eliya,Peak Season,Weekend,group,5,Mountain,High,122
+Bungee Jumping,2,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,High,87
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekday,group,8,Mountain,Medium,230
+Kayaking,8,no,Madu River,Peak Season,Weekend,group,12,River/Lake,Low,134
+Scuba Diving,8,no,Batticaloa,Shoulder Season,Weekend,group,6,Beach,Low,184
+Hiking,5,yes,World's End Trail,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,64
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,10,River/Lake,Medium,43
+Sky Diving,2,yes,Sigiriya,Off-Season,Weekend,group,2,Mountain,High,356
+Hot Air Balloon,8,yes,Sigiriya,Peak Season,Weekday,group,2,Mountain,Medium,302
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,250
+Surfing,5,no,Arugam Bay,Off-Season,Weekday,group,5,Beach,Low,81
+Bungee Jumping,1,yes,Knuckles,Shoulder Season,Weekend,group,12,Mountain,High,71
+Sky Diving,2,yes,Sigiriya,Peak Season,Weekday,group,6,Mountain,High,380
+Bungee Jumping,1,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,High,55
+Paragliding,5,no,Kalpitiya,Peak Season,Weekday,solo,1,Beach,High,186
+Water Rafting,5,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,91
+Surfing,2,no,Hikkaduwa,Off-Season,Weekend,group,6,Beach,Low,65
+Rock Climbing,10,no,Horana,Off-Season,Weekend,solo,1,Urban,Medium,133
+Rock Climbing,10,yes,Knuckles,Shoulder Season,Weekday,solo,1,Mountain,Medium,159
+Kayaking,2,yes,Bolgoda,Off-Season,Weekend,group,10,River/Lake,Low,76
+Surfing,1,no,Weligama,Shoulder Season,Weekend,group,12,Beach,Low,41
+Surfing,1,no,Mirissa,Shoulder Season,Weekday,group,8,Beach,Low,39
+Paragliding,2,yes,Kalpitiya,Peak Season,Weekend,group,2,Beach,High,114
+Hiking,10,no,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,103
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,68
+Surfing,5,yes,Hikkaduwa,Peak Season,Weekday,solo,1,Beach,Low,96
+Bungee Jumping,1,no,Kitulgala,Shoulder Season,Weekend,group,5,River/Lake,High,71
+Rock Climbing,8,yes,Ella,Shoulder Season,Weekday,group,12,Mountain,Medium,176
+Hiking,10,yes,Little Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,108
+Hot Air Balloon,5,no,Sigiriya,Shoulder Season,Weekend,solo,1,Mountain,Medium,272
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,group,8,River/Lake,Medium,42
+Rock Climbing,5,no,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,139
+Scuba Diving,5,no,Kalpitiya,Peak Season,Weekday,solo,1,Beach,Low,171
+Scuba Diving,8,no,Batticaloa,Shoulder Season,Weekend,group,12,Beach,Low,209
+Kayaking,5,no,Bentota,Peak Season,Weekday,solo,1,Beach,Low,72
+Hiking,10,yes,Hanthana,Peak Season,Weekend,group,2,Mountain,Low,127
+Hiking,10,no,Hanthana,Peak Season,Weekday,solo,1,Mountain,Low,105
+Hiking,8,no,Hanthana,Peak Season,Weekday,solo,1,Mountain,Low,88
+Kayaking,2,no,Bolgoda,Shoulder Season,Weekend,solo,1,River/Lake,Low,65
+Surfing,2,no,Hikkaduwa,Off-Season,Weekend,solo,1,Beach,Low,68
+Rock Climbing,5,yes,Pidurangala Rock,Off-Season,Weekday,group,12,Mountain,Medium,136
+Bungee Jumping,2,no,Colombo,Peak Season,Weekend,solo,1,Urban,High,99
+Hiking,10,no,Knuckles,Shoulder Season,Weekend,solo,1,Mountain,Low,132
+Surfing,1,no,Hikkaduwa,Peak Season,Weekday,group,8,Beach,Low,53
+Hiking,10,no,Horton Plains National Park,Off-Season,Weekend,group,6,Forest/Jungle,Low,125
+Hiking,5,no,Sinharaja Forest Reserve,Peak Season,Weekend,group,6,Forest/Jungle,Low,85
+Hiking,5,no,Adam's Peak,Shoulder Season,Weekday,group,5,Mountain,Low,73
+Hiking,8,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,114
+Kayaking,8,no,Bentota,Peak Season,Weekend,group,5,Beach,Low,124
+Surfing,5,yes,Hikkaduwa,Peak Season,Weekday,group,5,Beach,Low,76
+Surfing,1,yes,Unawatuna,Peak Season,Weekend,group,6,Beach,Low,56
+Hiking,10,yes,Horton Plains National Park,Off-Season,Weekday,solo,1,Forest/Jungle,Low,125
+Hiking,5,no,Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,63
+Rock Climbing,8,no,Pidurangala Rock,Off-Season,Weekend,group,8,Mountain,Medium,137
+Hiking,8,no,Hanthana,Off-Season,Weekday,group,10,Mountain,Low,94
+Scuba Diving,5,no,Trincomalee,Peak Season,Weekday,solo,1,Beach,Low,185
+Scuba Diving,5,yes,Trincomalee,Off-Season,Weekend,group,8,Beach,Low,143
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,77
+Paragliding,2,no,Ella,Peak Season,Weekday,solo,1,Mountain,High,113
+Rock Climbing,5,yes,Ella,Peak Season,Weekend,group,10,Mountain,Medium,116
+Surfing,5,yes,Mirissa,Peak Season,Weekend,solo,1,Beach,Low,70
+Surfing,5,no,Hikkaduwa,Peak Season,Weekend,group,2,Beach,Low,92
+Hiking,10,yes,Hanthana,Peak Season,Weekday,group,10,Mountain,Low,105
+Bungee Jumping,1,no,Knuckles,Peak Season,Weekend,group,10,Mountain,High,52
+Bungee Jumping,2,no,Colombo,Off-Season,Weekday,group,5,Urban,High,94
+Paragliding,2,no,Ella,Peak Season,Weekend,group,8,Mountain,High,120
+Bungee Jumping,1,yes,Knuckles,Shoulder Season,Weekend,solo,1,Mountain,High,55
+Surfing,5,no,Weligama,Shoulder Season,Weekday,group,5,Beach,Low,98
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,165
+Rock Climbing,5,no,Horana,Shoulder Season,Weekend,solo,1,Urban,Medium,147
+Surfing,1,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,60
+Hiking,10,yes,Horton Plains National Park,Peak Season,Weekday,group,12,Forest/Jungle,Low,127
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekday,solo,1,Mountain,Medium,138
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekday,group,2,River/Lake,Medium,101
+Paragliding,5,no,Ella,Peak Season,Weekday,group,6,Mountain,High,187
+Hiking,8,no,Knuckles,Shoulder Season,Weekday,solo,1,Mountain,Low,94
+Scuba Diving,5,no,Unawatuna,Peak Season,Weekday,group,5,Beach,Low,160
+Scuba Diving,8,no,Trincomalee,Peak Season,Weekend,solo,1,Beach,Low,254
+Scuba Diving,5,yes,Unawatuna,Peak Season,Weekday,group,5,Beach,Low,186
+Scuba Diving,8,no,Trincomalee,Off-Season,Weekend,solo,1,Beach,Low,215
+Hiking,10,yes,Sinharaja Forest Reserve,Peak Season,Weekday,group,12,Forest/Jungle,Low,132
+Hot Air Balloon,8,yes,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,306
+Hiking,5,no,Ella,Peak Season,Weekend,solo,1,Mountain,Low,86
+Bungee Jumping,2,no,Knuckles,Peak Season,Weekday,group,5,Mountain,High,63
+Hot Air Balloon,8,yes,Sigiriya,Peak Season,Weekday,group,12,Mountain,Medium,320
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekday,group,10,Mountain,Medium,293
+Surfing,1,no,Mirissa,Off-Season,Weekend,group,12,Beach,Low,24
+Rock Climbing,8,yes,Ella,Off-Season,Weekend,group,8,Mountain,Medium,124
+Surfing,2,no,Arugam Bay,Peak Season,Weekday,solo,1,Beach,Low,63
+Scuba Diving,5,no,Hikkaduwa,Peak Season,Weekday,group,12,Beach,Low,214
+Rock Climbing,10,yes,Horana,Shoulder Season,Weekend,solo,1,Urban,Medium,194
+Rock Climbing,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,86
+Kayaking,5,no,Bolgoda,Peak Season,Weekend,solo,1,River/Lake,Low,76
+Kayaking,8,yes,Madu River,Off-Season,Weekend,group,6,River/Lake,Low,119
+Hiking,8,no,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,82
+Hiking,5,no,Hanthana,Peak Season,Weekday,group,5,Mountain,Low,82
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,83
+Rock Climbing,5,yes,Horana,Peak Season,Weekend,solo,1,Urban,Medium,134
+Hiking,5,no,World's End Trail,Peak Season,Weekend,group,6,Forest/Jungle,Low,73
+Scuba Diving,8,no,Trincomalee,Peak Season,Weekend,group,8,Beach,Low,191
+Surfing,5,no,Mirissa,Off-Season,Weekend,solo,1,Beach,Low,74
+Surfing,1,no,Mirissa,Peak Season,Weekend,group,8,Beach,Low,26
+Rock Climbing,10,yes,Horana,Peak Season,Weekend,solo,1,Urban,Medium,172
+Hiking,5,no,Sinharaja Forest Reserve,Off-Season,Weekend,solo,1,Forest/Jungle,Low,69
+Surfing,1,no,Hikkaduwa,Off-Season,Weekday,solo,1,Beach,Low,34
+Hot Air Balloon,8,no,Sigiriya,Off-Season,Weekday,solo,1,Mountain,Medium,285
+Water Rafting,2,yes,Kitulgala,Off-Season,Weekday,group,5,River/Lake,Medium,57
+Hiking,10,no,World's End Trail,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,130
+Hot Air Balloon,8,no,Sigiriya,Shoulder Season,Weekend,group,6,Mountain,Medium,238
+Hiking,5,no,Ella,Peak Season,Weekend,group,2,Mountain,Low,82
+Surfing,2,no,Weligama,Off-Season,Weekday,group,5,Beach,Low,53
+Hiking,5,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,87
+Bungee Jumping,1,no,Kitulgala,Peak Season,Weekend,group,2,River/Lake,High,76
+Rock Climbing,10,yes,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,195
+Surfing,5,yes,Mirissa,Peak Season,Weekday,group,6,Beach,Low,93
+Hiking,8,no,Ella,Peak Season,Weekend,solo,1,Mountain,Low,108
+Hot Air Balloon,5,no,Sigiriya,Shoulder Season,Weekday,solo,1,Mountain,Medium,200
+Hiking,5,no,World's End Trail,Off-Season,Weekend,solo,1,Forest/Jungle,Low,53
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,159
+Scuba Diving,8,no,Kalpitiya,Peak Season,Weekend,group,8,Beach,Low,217
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekend,group,12,Mountain,Low,66
+Surfing,1,no,Unawatuna,Shoulder Season,Weekday,group,5,Beach,Low,39
+Rock Climbing,5,yes,Ella,Peak Season,Weekend,group,12,Mountain,Medium,92
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekday,group,2,Mountain,Medium,201
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,97
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekend,group,10,River/Lake,Medium,46
+Hiking,5,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,89
+Water Rafting,2,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,74
+Surfing,5,yes,Unawatuna,Shoulder Season,Weekend,group,2,Beach,Low,66
+Water Rafting,5,no,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,79
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,5,River/Lake,Medium,105
+Surfing,5,no,Mirissa,Peak Season,Weekday,group,5,Beach,Low,86
+Surfing,1,yes,Unawatuna,Shoulder Season,Weekend,solo,1,Beach,Low,21
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,10,River/Lake,Medium,88
+Hiking,10,no,Hanthana,Off-Season,Weekend,group,5,Mountain,Low,133
+Surfing,1,yes,Unawatuna,Peak Season,Weekday,solo,1,Beach,Low,54
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekday,solo,1,Mountain,Medium,235
+Surfing,1,no,Hikkaduwa,Peak Season,Weekday,group,2,Beach,Low,57
+Surfing,2,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,69
+Bungee Jumping,2,yes,Colombo,Off-Season,Weekday,solo,1,Urban,High,87
+Hiking,10,no,Knuckles,Shoulder Season,Weekday,solo,1,Mountain,Low,123
+Paragliding,2,no,Ella,Off-Season,Weekend,solo,1,Mountain,High,130
+Surfing,2,no,Weligama,Off-Season,Weekend,group,6,Beach,Low,58
+Water Rafting,2,no,Kitulgala,Off-Season,Weekday,group,10,River/Lake,Medium,77
+Surfing,1,no,Unawatuna,Peak Season,Weekday,group,2,Beach,Low,48
+Paragliding,2,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,High,144
+Hiking,5,no,Ella,Off-Season,Weekend,solo,1,Mountain,Low,71
+Hot Air Balloon,8,yes,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,280
+Paragliding,2,no,Kalpitiya,Off-Season,Weekend,solo,1,Beach,High,148
+Hiking,5,no,Knuckles,Off-Season,Weekday,group,6,Mountain,Low,55
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,112
+Rock Climbing,10,yes,Pidurangala Rock,Peak Season,Weekday,group,5,Mountain,Medium,130
+Kayaking,2,no,Bentota,Shoulder Season,Weekend,solo,1,Beach,Low,84
+Kayaking,8,no,Madu River,Off-Season,Weekend,group,8,River/Lake,Low,145
+Hiking,10,yes,Little Adam's Peak,Peak Season,Weekday,group,5,Mountain,Low,140
+Sky Diving,5,yes,Bentota,Off-Season,Weekend,solo,1,Beach,High,368
+Scuba Diving,5,no,Hikkaduwa,Peak Season,Weekday,solo,1,Beach,Low,198
+Hiking,8,no,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,112
+Paragliding,5,no,Kalpitiya,Peak Season,Weekday,solo,1,Beach,High,138
+Hiking,10,no,Knuckles,Peak Season,Weekend,group,8,Mountain,Low,133
+Hiking,5,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,56
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekend,group,6,Mountain,Medium,173
+Hiking,10,no,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,112
+Surfing,1,no,Arugam Bay,Shoulder Season,Weekend,group,6,Beach,Low,43
+Rock Climbing,5,yes,Horana,Off-Season,Weekend,group,8,Urban,Medium,96
+Hiking,10,no,Knuckles,Off-Season,Weekend,group,8,Mountain,Low,107
+Surfing,5,no,Arugam Bay,Shoulder Season,Weekend,group,5,Beach,Low,80
+Kayaking,2,no,Bolgoda,Shoulder Season,Weekday,group,2,River/Lake,Low,60
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekday,group,8,River/Lake,Medium,45
+Rock Climbing,5,yes,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,133
+Surfing,5,no,Mirissa,Shoulder Season,Weekend,group,10,Beach,Low,74
+Surfing,1,no,Unawatuna,Off-Season,Weekend,group,5,Beach,Low,46
+Hiking,5,no,Ella,Shoulder Season,Weekend,solo,1,Mountain,Low,78
+Surfing,5,no,Arugam Bay,Peak Season,Weekend,group,10,Beach,Low,72
+Water Rafting,5,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,119
+Hiking,10,no,Horton Plains National Park,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,106
+Surfing,5,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,85
+Bungee Jumping,2,no,Colombo,Off-Season,Weekend,solo,1,Urban,High,68
+Hiking,8,no,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,86
+Hiking,5,no,World's End Trail,Off-Season,Weekend,group,6,Forest/Jungle,Low,50
+Rock Climbing,8,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,175
+Hiking,8,no,Sinharaja Forest Reserve,Peak Season,Weekend,group,12,Forest/Jungle,Low,98
+Scuba Diving,5,no,Trincomalee,Peak Season,Weekend,group,8,Beach,Low,211
+Rock Climbing,10,yes,Ella,Shoulder Season,Weekend,solo,1,Mountain,Medium,194
+Surfing,1,no,Unawatuna,Shoulder Season,Weekday,group,6,Beach,Low,30
+Surfing,5,no,Mirissa,Off-Season,Weekend,group,10,Beach,Low,83
+Rock Climbing,8,yes,Knuckles,Shoulder Season,Weekend,solo,1,Mountain,Medium,150
+Hiking,8,no,Adam's Peak,Peak Season,Weekend,group,5,Mountain,Low,92
+Rock Climbing,5,yes,Kitulgala,Peak Season,Weekend,group,5,River/Lake,Medium,109
+Scuba Diving,5,no,Hikkaduwa,Off-Season,Weekday,solo,1,Beach,Low,159
+Surfing,1,yes,Unawatuna,Shoulder Season,Weekend,solo,1,Beach,Low,40
+Kayaking,8,no,Kalutara,Peak Season,Weekend,solo,1,River/Lake,Low,136
+Surfing,5,no,Hikkaduwa,Peak Season,Weekday,solo,1,Beach,Low,97
+Paragliding,2,yes,Nuwara Eliya,Peak Season,Weekend,group,6,Mountain,High,112
+Hiking,5,no,Ella,Shoulder Season,Weekday,solo,1,Mountain,Low,74
+Hiking,10,yes,Ella,Shoulder Season,Weekend,group,5,Mountain,Low,107
+Water Rafting,2,yes,Kitulgala,Off-Season,Weekday,group,10,River/Lake,Medium,82
+Water Rafting,5,yes,Kitulgala,Off-Season,Weekday,group,8,River/Lake,Medium,107
+Hot Air Balloon,5,yes,Sigiriya,Off-Season,Weekend,group,6,Mountain,Medium,284
+Scuba Diving,8,no,Kalpitiya,Peak Season,Weekend,group,8,Beach,Low,180
+Rock Climbing,10,yes,Ella,Peak Season,Weekday,group,12,Mountain,Medium,143
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekday,solo,1,Mountain,Medium,202
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,136
+Hiking,5,no,Little Adam's Peak,Off-Season,Weekday,solo,1,Mountain,Low,68
+Rock Climbing,10,yes,Ella,Peak Season,Weekend,group,8,Mountain,Medium,210
+Hiking,5,no,Hanthana,Peak Season,Weekday,group,6,Mountain,Low,71
+Hiking,8,no,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,85
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,63
+Paragliding,5,no,Nuwara Eliya,Shoulder Season,Weekend,group,8,Mountain,High,181
+Hiking,5,yes,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,53
+Surfing,1,yes,Weligama,Peak Season,Weekday,solo,1,Beach,Low,26
+Surfing,1,no,Unawatuna,Peak Season,Weekend,group,10,Beach,Low,45
+Water Rafting,5,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,99
+Rock Climbing,8,yes,Pidurangala Rock,Peak Season,Weekday,group,2,Mountain,Medium,119
+Paragliding,5,no,Kalpitiya,Peak Season,Weekend,group,2,Beach,High,163
+Surfing,2,no,Arugam Bay,Peak Season,Weekend,group,6,Beach,Low,40
+Hiking,10,no,Horton Plains National Park,Peak Season,Weekend,group,10,Forest/Jungle,Low,122
+Hiking,5,no,Horton Plains National Park,Peak Season,Weekday,group,5,Forest/Jungle,Low,52
+Rock Climbing,10,yes,Horana,Peak Season,Weekday,solo,1,Urban,Medium,157
+Hot Air Balloon,5,yes,Sigiriya,Peak Season,Weekday,solo,1,Mountain,Medium,264
+Rock Climbing,10,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,133
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekday,solo,1,Mountain,Medium,150
+Surfing,5,no,Mirissa,Off-Season,Weekend,solo,1,Beach,Low,92
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,198
+Surfing,2,no,Mirissa,Shoulder Season,Weekday,group,10,Beach,Low,60
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekday,group,2,River/Lake,Medium,50
+Sky Diving,2,yes,Ampara,Off-Season,Weekday,group,6,Urban,High,269
+Hiking,10,no,Adam's Peak,Off-Season,Weekend,solo,1,Mountain,Low,109
+Kayaking,8,no,Kalutara,Peak Season,Weekday,solo,1,River/Lake,Low,100
+Hiking,5,no,Knuckles,Peak Season,Weekend,group,8,Mountain,Low,84
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekday,solo,1,Mountain,Medium,200
+Kayaking,2,no,Bolgoda,Peak Season,Weekend,group,6,River/Lake,Low,44
+Hiking,5,no,Little Adam's Peak,Shoulder Season,Weekend,group,2,Mountain,Low,52
+Bungee Jumping,1,no,Kitulgala,Peak Season,Weekend,group,10,River/Lake,High,80
+Rock Climbing,5,yes,Ella,Peak Season,Weekday,solo,1,Mountain,Medium,96
+Surfing,2,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,40
+Bungee Jumping,1,no,Knuckles,Peak Season,Weekday,group,10,Mountain,High,75
+Surfing,1,no,Unawatuna,Peak Season,Weekday,group,10,Beach,Low,26
+Sky Diving,2,yes,Ella,Peak Season,Weekend,solo,1,Mountain,High,410
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekday,group,6,River/Lake,Medium,116
+Bungee Jumping,1,no,Colombo,Peak Season,Weekend,group,10,Urban,High,55
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekend,group,12,Mountain,Low,82
+Surfing,2,no,Mirissa,Peak Season,Weekend,solo,1,Beach,Low,46
+Rock Climbing,5,yes,Kitulgala,Off-Season,Weekend,group,8,River/Lake,Medium,99
+Rock Climbing,5,yes,Kitulgala,Shoulder Season,Weekend,group,2,River/Lake,Medium,119
+Bungee Jumping,1,no,Kitulgala,Off-Season,Weekday,solo,1,River/Lake,High,90
+Rock Climbing,8,no,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,144
+Hiking,5,yes,Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,76
+Scuba Diving,8,no,Trincomalee,Shoulder Season,Weekend,solo,1,Beach,Low,256
+Hiking,10,yes,Ella,Peak Season,Weekday,solo,1,Mountain,Low,134
+Surfing,1,yes,Mirissa,Off-Season,Weekend,group,10,Beach,Low,31
+Surfing,2,yes,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,50
+Surfing,1,no,Mirissa,Peak Season,Weekday,group,10,Beach,Low,45
+Rock Climbing,10,yes,Pidurangala Rock,Peak Season,Weekday,group,12,Mountain,Medium,210
+Scuba Diving,8,no,Kalpitiya,Peak Season,Weekday,group,5,Beach,Low,267
+Kayaking,8,no,Madu River,Peak Season,Weekday,solo,1,River/Lake,Low,100
+Surfing,1,no,Mirissa,Shoulder Season,Weekend,group,12,Beach,Low,33
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,146
+Scuba Diving,5,no,Kalpitiya,Shoulder Season,Weekend,solo,1,Beach,Low,180
+Bungee Jumping,2,no,Ella,Off-Season,Weekday,solo,1,Mountain,High,93
+Hiking,10,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,138
+Hiking,10,no,Sinharaja Forest Reserve,Peak Season,Weekday,solo,1,Forest/Jungle,Low,121
+Hiking,8,no,Little Adam's Peak,Peak Season,Weekend,group,12,Mountain,Low,92
+Hiking,5,no,Hanthana,Off-Season,Weekday,group,8,Mountain,Low,66
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,116
+Hiking,10,no,Hanthana,Peak Season,Weekend,group,5,Mountain,Low,118
+Hiking,8,no,Ella,Shoulder Season,Weekend,solo,1,Mountain,Low,93
+Rock Climbing,10,yes,Ella,Peak Season,Weekend,group,2,Mountain,Medium,142
+Surfing,1,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,58
+Sky Diving,2,yes,Ella,Peak Season,Weekend,solo,1,Mountain,High,325
+Hiking,5,no,Horton Plains National Park,Peak Season,Weekday,solo,1,Forest/Jungle,Low,75
+Rock Climbing,8,yes,Ella,Off-Season,Weekday,group,6,Mountain,Medium,182
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekend,group,10,Mountain,Medium,189
+Scuba Diving,5,no,Trincomalee,Peak Season,Weekend,solo,1,Beach,Low,156
+Paragliding,5,no,Nuwara Eliya,Peak Season,Weekend,group,5,Mountain,High,153
+Surfing,1,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,46
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,106
+Surfing,1,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,50
+Rock Climbing,5,yes,Knuckles,Peak Season,Weekday,group,5,Mountain,Medium,105
+Paragliding,5,no,Kalpitiya,Off-Season,Weekday,solo,1,Beach,High,172
+Kayaking,8,no,Bolgoda,Peak Season,Weekend,solo,1,River/Lake,Low,107
+Water Rafting,2,no,Kitulgala,Peak Season,Weekend,group,6,River/Lake,Medium,83
+Water Rafting,2,no,Kitulgala,Shoulder Season,Weekday,solo,1,River/Lake,Medium,68
+Surfing,1,no,Weligama,Peak Season,Weekend,group,8,Beach,Low,52
+Scuba Diving,5,no,Kalpitiya,Off-Season,Weekend,group,2,Beach,Low,183
+Hiking,8,no,Ella,Peak Season,Weekend,group,12,Mountain,Low,110
+Hiking,10,yes,World's End Trail,Peak Season,Weekday,solo,1,Forest/Jungle,Low,123
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,group,10,Mountain,Medium,198
+Hiking,10,no,World's End Trail,Off-Season,Weekend,group,8,Forest/Jungle,Low,138
+Water Rafting,2,yes,Kitulgala,Off-Season,Weekend,solo,1,River/Lake,Medium,50
+Hiking,8,no,Ella,Peak Season,Weekend,group,2,Mountain,Low,120
+Surfing,2,yes,Mirissa,Shoulder Season,Weekend,solo,1,Beach,Low,56
+Hiking,10,yes,Adam's Peak,Peak Season,Weekday,group,5,Mountain,Low,132
+Hiking,5,no,Sinharaja Forest Reserve,Peak Season,Weekday,solo,1,Forest/Jungle,Low,81
+Surfing,5,no,Unawatuna,Off-Season,Weekend,solo,1,Beach,Low,96
+Bungee Jumping,1,no,Colombo,Peak Season,Weekend,solo,1,Urban,High,92
+Surfing,1,no,Weligama,Shoulder Season,Weekend,solo,1,Beach,Low,44
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,73
+Scuba Diving,5,no,Batticaloa,Peak Season,Weekend,group,8,Beach,Low,194
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,2,River/Lake,Medium,115
+Surfing,1,no,Unawatuna,Shoulder Season,Weekend,solo,1,Beach,Low,29
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekday,solo,1,Mountain,Medium,115
+Scuba Diving,8,yes,Unawatuna,Peak Season,Weekday,solo,1,Beach,Low,234
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekend,group,6,River/Lake,Medium,209
+Bungee Jumping,2,no,Knuckles,Shoulder Season,Weekend,group,2,Mountain,High,97
+Hiking,10,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,127
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekday,group,6,River/Lake,Medium,104
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekend,group,8,River/Lake,Medium,147
+Hiking,8,yes,Horton Plains National Park,Peak Season,Weekend,group,5,Forest/Jungle,Low,112
+Kayaking,2,no,Madu River,Off-Season,Weekday,group,8,River/Lake,Low,58
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,110
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekday,group,2,Mountain,Medium,242
+Sky Diving,5,yes,Ella,Peak Season,Weekend,group,12,Mountain,High,401
+Paragliding,2,no,Kalpitiya,Peak Season,Weekend,group,2,Beach,High,107
+Bungee Jumping,1,no,Colombo,Peak Season,Weekend,group,10,Urban,High,92
+Hiking,8,no,Little Adam's Peak,Shoulder Season,Weekend,solo,1,Mountain,Low,96
+Hiking,10,yes,Ella,Peak Season,Weekend,solo,1,Mountain,Low,125
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekend,group,5,River/Lake,Medium,120
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekend,group,6,Mountain,Medium,167
+Surfing,2,no,Mirissa,Peak Season,Weekend,group,12,Beach,Low,57
+Rock Climbing,5,yes,Kitulgala,Peak Season,Weekend,group,2,River/Lake,Medium,132
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,73
+Surfing,1,no,Weligama,Peak Season,Weekday,solo,1,Beach,Low,60
+Surfing,1,no,Hikkaduwa,Peak Season,Weekday,group,5,Beach,Low,34
+Rock Climbing,8,no,Knuckles,Peak Season,Weekend,group,2,Mountain,Medium,172
+Water Rafting,2,yes,Kitulgala,Off-Season,Weekend,group,5,River/Lake,Medium,57
+Scuba Diving,5,yes,Unawatuna,Peak Season,Weekend,group,6,Beach,Low,151
+Hiking,8,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,92
+Paragliding,5,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,High,180
+Scuba Diving,5,no,Hikkaduwa,Peak Season,Weekend,group,8,Beach,Low,160
+Sky Diving,2,yes,Ella,Peak Season,Weekend,group,5,Mountain,High,379
+Hiking,10,yes,World's End Trail,Peak Season,Weekend,group,12,Forest/Jungle,Low,134
+Paragliding,2,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,High,127
+Rock Climbing,10,yes,Ella,Off-Season,Weekend,group,2,Mountain,Medium,210
+Kayaking,5,no,Bolgoda,Shoulder Season,Weekend,solo,1,River/Lake,Low,96
+Hiking,5,yes,Horton Plains National Park,Peak Season,Weekday,solo,1,Forest/Jungle,Low,54
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,64
+Paragliding,2,no,Nuwara Eliya,Peak Season,Weekday,solo,1,Mountain,High,114
+Hiking,8,no,Adam's Peak,Off-Season,Weekday,group,10,Mountain,Low,96
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekend,group,10,Mountain,Medium,125
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekend,solo,1,River/Lake,Medium,83
+Hiking,5,no,World's End Trail,Peak Season,Weekday,group,6,Forest/Jungle,Low,59
+Bungee Jumping,2,no,Colombo,Shoulder Season,Weekend,group,8,Urban,High,73
+Surfing,5,no,Unawatuna,Shoulder Season,Weekend,solo,1,Beach,Low,89
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,224
+Rock Climbing,8,no,Kitulgala,Peak Season,Weekend,group,2,River/Lake,Medium,124
+Bungee Jumping,1,no,Kitulgala,Peak Season,Weekend,group,10,River/Lake,High,65
+Surfing,1,no,Weligama,Peak Season,Weekend,group,12,Beach,Low,43
+Hiking,5,no,Knuckles,Peak Season,Weekday,group,12,Mountain,Low,81
+Water Rafting,5,yes,Kitulgala,Off-Season,Weekend,group,5,River/Lake,Medium,117
+Hiking,5,no,World's End Trail,Peak Season,Weekend,solo,1,Forest/Jungle,Low,74
+Surfing,1,yes,Unawatuna,Peak Season,Weekday,solo,1,Beach,Low,51
+Rock Climbing,5,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,98
+Rock Climbing,5,yes,Horana,Off-Season,Weekend,solo,1,Urban,Medium,140
+Rock Climbing,10,yes,Pidurangala Rock,Peak Season,Weekend,group,5,Mountain,Medium,183
+Hiking,5,no,Sinharaja Forest Reserve,Off-Season,Weekday,solo,1,Forest/Jungle,Low,67
+Hiking,10,no,Hanthana,Shoulder Season,Weekday,group,12,Mountain,Low,102
+Hiking,8,no,Ella,Peak Season,Weekend,solo,1,Mountain,Low,106
+Surfing,2,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,67
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,86
+Surfing,2,no,Mirissa,Shoulder Season,Weekend,solo,1,Beach,Low,48
+Hiking,8,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,80
+Hiking,8,no,Sinharaja Forest Reserve,Peak Season,Weekday,solo,1,Forest/Jungle,Low,104
+Scuba Diving,5,yes,Hikkaduwa,Off-Season,Weekday,group,10,Beach,Low,171
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekday,solo,1,River/Lake,Medium,49
+Hiking,5,no,Adam's Peak,Off-Season,Weekday,group,10,Mountain,Low,78
+Hiking,10,no,Little Adam's Peak,Shoulder Season,Weekend,group,12,Mountain,Low,115
+Hiking,8,no,Horton Plains National Park,Shoulder Season,Weekday,solo,1,Forest/Jungle,Low,83
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekday,group,2,Mountain,Medium,179
+Water Rafting,2,no,Kitulgala,Off-Season,Weekday,solo,1,River/Lake,Medium,77
+Hiking,5,no,Knuckles,Peak Season,Weekend,group,12,Mountain,Low,72
+Rock Climbing,5,no,Knuckles,Shoulder Season,Weekend,solo,1,Mountain,Medium,149
+Paragliding,5,no,Kalpitiya,Peak Season,Weekend,group,6,Beach,High,121
+Water Rafting,2,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,44
+Hiking,8,yes,Sinharaja Forest Reserve,Peak Season,Weekend,solo,1,Forest/Jungle,Low,111
+Surfing,1,no,Mirissa,Peak Season,Weekend,group,5,Beach,Low,32
+Surfing,1,yes,Unawatuna,Shoulder Season,Weekday,group,10,Beach,Low,55
+Paragliding,2,yes,Ella,Peak Season,Weekend,group,5,Mountain,High,101
+Paragliding,2,yes,Ella,Shoulder Season,Weekend,group,8,Mountain,High,145
+Surfing,2,no,Unawatuna,Peak Season,Weekday,solo,1,Beach,Low,42
+Surfing,2,yes,Mirissa,Off-Season,Weekend,solo,1,Beach,Low,44
+Surfing,2,yes,Unawatuna,Off-Season,Weekend,solo,1,Beach,Low,45
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,62
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,6,River/Lake,Medium,116
+Hiking,8,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,83
+Surfing,2,yes,Weligama,Shoulder Season,Weekend,solo,1,Beach,Low,53
+Surfing,5,no,Weligama,Peak Season,Weekend,group,6,Beach,Low,71
+Bungee Jumping,1,yes,Colombo,Shoulder Season,Weekday,solo,1,Urban,High,62
+Scuba Diving,5,no,Trincomalee,Shoulder Season,Weekend,group,12,Beach,Low,212
+Kayaking,2,no,Madu River,Off-Season,Weekday,group,10,River/Lake,Low,63
+Surfing,1,no,Unawatuna,Peak Season,Weekday,solo,1,Beach,Low,26
+Hiking,10,no,Adam's Peak,Off-Season,Weekend,group,2,Mountain,Low,133
+Rock Climbing,10,no,Knuckles,Peak Season,Weekday,solo,1,Mountain,Medium,175
+Hiking,10,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,131
+Paragliding,2,yes,Ella,Shoulder Season,Weekend,group,6,Mountain,High,112
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekend,group,2,Mountain,Medium,312
+Scuba Diving,8,no,Kalpitiya,Peak Season,Weekend,group,12,Beach,Low,181
+Rock Climbing,10,no,Ella,Peak Season,Weekday,group,5,Mountain,Medium,202
+Rock Climbing,10,no,Horana,Peak Season,Weekend,solo,1,Urban,Medium,174
+Rock Climbing,5,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,155
+Hiking,5,no,Sinharaja Forest Reserve,Peak Season,Weekend,solo,1,Forest/Jungle,Low,52
+Hiking,5,no,Adam's Peak,Peak Season,Weekend,group,6,Mountain,Low,61
+Hot Air Balloon,5,no,Sigiriya,Shoulder Season,Weekend,group,6,Mountain,Medium,253
+Sky Diving,2,yes,Ella,Peak Season,Weekend,solo,1,Mountain,High,288
+Hiking,10,no,Hanthana,Off-Season,Weekday,group,2,Mountain,Low,109
+Bungee Jumping,2,yes,Kitulgala,Peak Season,Weekend,group,10,River/Lake,High,109
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,116
+Rock Climbing,8,no,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,175
+Water Rafting,5,no,Kitulgala,Shoulder Season,Weekend,solo,1,River/Lake,Medium,85
+Rock Climbing,8,yes,Pidurangala Rock,Peak Season,Weekday,solo,1,Mountain,Medium,183
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,group,12,River/Lake,Medium,76
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,2,River/Lake,Medium,90
+Surfing,5,no,Unawatuna,Shoulder Season,Weekend,group,5,Beach,Low,77
+Surfing,1,no,Weligama,Peak Season,Weekday,group,12,Beach,Low,38
+Scuba Diving,8,yes,Kalpitiya,Peak Season,Weekend,group,12,Beach,Low,202
+Hiking,5,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,56
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,group,5,Mountain,Medium,87
+Surfing,5,no,Mirissa,Peak Season,Weekend,group,10,Beach,Low,94
+Rock Climbing,5,yes,Kitulgala,Peak Season,Weekend,group,8,River/Lake,Medium,115
+Rock Climbing,5,yes,Horana,Peak Season,Weekend,group,2,Urban,Medium,153
+Bungee Jumping,2,no,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,High,90
+Surfing,2,no,Mirissa,Off-Season,Weekend,solo,1,Beach,Low,43
+Bungee Jumping,1,no,Knuckles,Peak Season,Weekday,group,8,Mountain,High,89
+Hiking,5,yes,Little Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,50
+Hiking,8,no,Horton Plains National Park,Off-Season,Weekday,solo,1,Forest/Jungle,Low,110
+Hiking,10,yes,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,137
+Scuba Diving,5,no,Kalpitiya,Off-Season,Weekend,solo,1,Beach,Low,204
+Hiking,10,yes,Little Adam's Peak,Peak Season,Weekend,group,8,Mountain,Low,125
+Rock Climbing,5,yes,Knuckles,Peak Season,Weekday,group,6,Mountain,Medium,156
+Rock Climbing,5,no,Ella,Off-Season,Weekend,group,5,Mountain,Medium,140
+Kayaking,8,yes,Bolgoda,Off-Season,Weekend,solo,1,River/Lake,Low,110
+Surfing,5,no,Weligama,Shoulder Season,Weekday,group,12,Beach,Low,76
+Rock Climbing,8,yes,Ella,Peak Season,Weekday,group,8,Mountain,Medium,126
+Surfing,1,no,Mirissa,Off-Season,Weekend,solo,1,Beach,Low,49
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekday,group,8,Mountain,Low,70
+Water Rafting,2,no,Kitulgala,Off-Season,Weekday,group,8,River/Lake,Medium,49
+Hiking,8,yes,Sinharaja Forest Reserve,Shoulder Season,Weekday,group,8,Forest/Jungle,Low,97
+Rock Climbing,8,yes,Pidurangala Rock,Off-Season,Weekday,solo,1,Mountain,Medium,161
+Surfing,2,yes,Mirissa,Peak Season,Weekday,group,2,Beach,Low,55
+Hiking,10,yes,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,106
+Hiking,8,no,Adam's Peak,Peak Season,Weekday,group,6,Mountain,Low,120
+Hiking,8,no,Horton Plains National Park,Peak Season,Weekday,group,10,Forest/Jungle,Low,115
+Surfing,5,no,Unawatuna,Peak Season,Weekend,group,12,Beach,Low,75
+Surfing,5,no,Arugam Bay,Peak Season,Weekend,solo,1,Beach,Low,68
+Surfing,2,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,43
+Kayaking,2,no,Kalutara,Peak Season,Weekend,solo,1,River/Lake,Low,60
+Surfing,2,no,Mirissa,Peak Season,Weekday,group,10,Beach,Low,49
+Hiking,8,no,Adam's Peak,Peak Season,Weekend,group,12,Mountain,Low,91
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,group,10,Mountain,Medium,267
+Water Rafting,5,no,Kitulgala,Peak Season,Weekend,group,2,River/Lake,Medium,79
+Rock Climbing,5,yes,Pidurangala Rock,Off-Season,Weekday,group,2,Mountain,Medium,82
+Surfing,2,no,Hikkaduwa,Shoulder Season,Weekday,group,6,Beach,Low,65
+Rock Climbing,8,yes,Knuckles,Shoulder Season,Weekend,group,2,Mountain,Medium,153
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,56
+Hiking,8,yes,Sinharaja Forest Reserve,Peak Season,Weekday,group,12,Forest/Jungle,Low,100
+Hiking,8,yes,Sinharaja Forest Reserve,Peak Season,Weekday,solo,1,Forest/Jungle,Low,81
+Rock Climbing,5,yes,Ella,Peak Season,Weekday,solo,1,Mountain,Medium,83
+Hiking,5,no,Horton Plains National Park,Shoulder Season,Weekend,group,6,Forest/Jungle,Low,76
+Hiking,8,no,Horton Plains National Park,Peak Season,Weekday,solo,1,Forest/Jungle,Low,88
+Hot Air Balloon,8,yes,Sigiriya,Shoulder Season,Weekend,solo,1,Mountain,Medium,257
+Rock Climbing,10,yes,Kitulgala,Off-Season,Weekday,group,12,River/Lake,Medium,181
+Surfing,5,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,85
+Hot Air Balloon,8,no,Sigiriya,Off-Season,Weekday,group,5,Mountain,Medium,316
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,192
+Hiking,5,yes,Horton Plains National Park,Shoulder Season,Weekday,solo,1,Forest/Jungle,Low,84
+Hiking,10,no,World's End Trail,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,107
+Rock Climbing,10,yes,Ella,Peak Season,Weekday,group,10,Mountain,Medium,185
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekend,group,8,Mountain,Medium,149
+Hiking,8,yes,Ella,Peak Season,Weekend,solo,1,Mountain,Low,90
+Water Rafting,5,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,117
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekend,solo,1,River/Lake,Medium,78
+Hiking,10,no,Ella,Off-Season,Weekday,group,10,Mountain,Low,135
+Hiking,8,no,Sinharaja Forest Reserve,Peak Season,Weekend,group,6,Forest/Jungle,Low,112
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,group,6,River/Lake,Medium,98
+Surfing,2,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,39
+Hiking,8,no,Horton Plains National Park,Off-Season,Weekend,group,2,Forest/Jungle,Low,82
+Hiking,10,yes,Ella,Shoulder Season,Weekday,group,8,Mountain,Low,124
+Scuba Diving,5,no,Unawatuna,Peak Season,Weekend,group,12,Beach,Low,195
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,group,10,River/Lake,Medium,67
+Surfing,5,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,80
+Hiking,8,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,81
+Scuba Diving,8,no,Kalpitiya,Shoulder Season,Weekday,solo,1,Beach,Low,270
+Bungee Jumping,1,yes,Colombo,Peak Season,Weekend,solo,1,Urban,High,91
+Scuba Diving,8,yes,Batticaloa,Peak Season,Weekend,group,5,Beach,Low,182
+Hiking,5,no,Hanthana,Peak Season,Weekend,group,10,Mountain,Low,59
+Bungee Jumping,1,no,Kitulgala,Shoulder Season,Weekday,solo,1,River/Lake,High,90
+Paragliding,5,yes,Ella,Peak Season,Weekend,group,8,Mountain,High,165
+Surfing,5,no,Hikkaduwa,Peak Season,Weekend,group,8,Beach,Low,98
+Bungee Jumping,1,no,Ella,Peak Season,Weekend,solo,1,Mountain,High,82
+Kayaking,5,yes,Kalpitiya,Peak Season,Weekend,group,12,Beach,Low,67
+Hiking,10,yes,Sinharaja Forest Reserve,Shoulder Season,Weekend,group,6,Forest/Jungle,Low,104
+Hiking,5,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,52
+Hiking,10,no,Little Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,126
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekday,solo,1,River/Lake,Medium,91
+Bungee Jumping,2,no,Kitulgala,Off-Season,Weekend,group,8,River/Lake,High,98
+Hiking,5,no,Adam's Peak,Off-Season,Weekday,group,10,Mountain,Low,71
+Hiking,5,no,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,60
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,296
+Water Rafting,5,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,74
+Hiking,8,no,Hanthana,Shoulder Season,Weekend,group,5,Mountain,Low,93
+Rock Climbing,8,yes,Pidurangala Rock,Peak Season,Weekend,group,10,Mountain,Medium,161
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,130
+Rock Climbing,10,yes,Horana,Peak Season,Weekday,group,2,Urban,Medium,191
+Hiking,10,no,Adam's Peak,Peak Season,Weekend,group,10,Mountain,Low,131
+Kayaking,2,no,Kalutara,Peak Season,Weekday,solo,1,River/Lake,Low,75
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,group,2,River/Lake,Medium,85
+Scuba Diving,5,no,Hikkaduwa,Peak Season,Weekday,group,12,Beach,Low,149
+Hiking,5,no,World's End Trail,Peak Season,Weekend,group,10,Forest/Jungle,Low,85
+Surfing,2,no,Unawatuna,Peak Season,Weekday,group,6,Beach,Low,64
+Surfing,5,yes,Weligama,Peak Season,Weekend,group,10,Beach,Low,94
+Hiking,8,no,Ella,Peak Season,Weekend,group,5,Mountain,Low,111
+Surfing,2,no,Unawatuna,Off-Season,Weekend,group,2,Beach,Low,49
+Rock Climbing,10,yes,Ella,Shoulder Season,Weekend,solo,1,Mountain,Medium,183
+Hiking,5,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,85
+Surfing,2,no,Mirissa,Shoulder Season,Weekday,solo,1,Beach,Low,58
+Surfing,1,yes,Weligama,Peak Season,Weekend,group,6,Beach,Low,22
+Rock Climbing,5,yes,Ella,Peak Season,Weekend,group,6,Mountain,Medium,154
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekend,solo,1,River/Lake,Medium,120
+Scuba Diving,5,no,Batticaloa,Shoulder Season,Weekday,solo,1,Beach,Low,177
+Surfing,5,no,Weligama,Shoulder Season,Weekday,group,12,Beach,Low,92
+Surfing,2,no,Unawatuna,Peak Season,Weekend,group,8,Beach,Low,70
+Scuba Diving,5,no,Hikkaduwa,Peak Season,Weekday,group,5,Beach,Low,180
+Scuba Diving,5,no,Hikkaduwa,Peak Season,Weekday,solo,1,Beach,Low,202
+Hiking,10,no,Horton Plains National Park,Peak Season,Weekday,solo,1,Forest/Jungle,Low,136
+Rock Climbing,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,152
+Surfing,5,no,Mirissa,Peak Season,Weekday,group,10,Beach,Low,91
+Bungee Jumping,1,yes,Colombo,Off-Season,Weekend,solo,1,Urban,High,79
+Kayaking,2,no,Kalutara,Peak Season,Weekend,solo,1,River/Lake,Low,58
+Surfing,1,no,Arugam Bay,Shoulder Season,Weekend,solo,1,Beach,Low,44
+Surfing,5,no,Hikkaduwa,Peak Season,Weekend,group,2,Beach,Low,95
+Hot Air Balloon,5,yes,Sigiriya,Peak Season,Weekend,group,10,Mountain,Medium,289
+Paragliding,2,no,Nuwara Eliya,Peak Season,Weekend,solo,1,Mountain,High,126
+Hot Air Balloon,8,no,Sigiriya,Peak Season,Weekday,solo,1,Mountain,Medium,271
+Rock Climbing,5,yes,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,127
+Water Rafting,2,no,Kitulgala,Shoulder Season,Weekday,solo,1,River/Lake,Medium,43
+Rock Climbing,10,no,Horana,Off-Season,Weekday,solo,1,Urban,Medium,134
+Rock Climbing,8,yes,Ella,Peak Season,Weekday,solo,1,Mountain,Medium,188
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,99
+Rock Climbing,5,no,Knuckles,Off-Season,Weekday,group,12,Mountain,Medium,157
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,79
+Hiking,10,no,Adam's Peak,Off-Season,Weekend,solo,1,Mountain,Low,131
+Hiking,5,no,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,88
+Paragliding,2,no,Kalpitiya,Shoulder Season,Weekend,group,2,Beach,High,109
+Paragliding,2,yes,Nuwara Eliya,Peak Season,Weekday,solo,1,Mountain,High,157
+Surfing,5,no,Unawatuna,Peak Season,Weekday,group,8,Beach,Low,90
+Surfing,5,no,Unawatuna,Peak Season,Weekend,group,5,Beach,Low,71
+Hiking,10,no,Hanthana,Peak Season,Weekday,solo,1,Mountain,Low,107
+Hiking,5,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,55
+Surfing,1,no,Hikkaduwa,Peak Season,Weekend,group,6,Beach,Low,38
+Rock Climbing,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,150
+Surfing,1,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,30
+Rock Climbing,10,no,Pidurangala Rock,Peak Season,Weekend,group,10,Mountain,Medium,154
+Rock Climbing,10,yes,Horana,Off-Season,Weekday,group,6,Urban,Medium,191
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekday,group,5,Mountain,Medium,218
+Sky Diving,2,yes,Sigiriya,Off-Season,Weekend,group,6,Mountain,High,358
+Surfing,5,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,97
+Hiking,10,no,Ella,Shoulder Season,Weekend,group,5,Mountain,Low,122
+Rock Climbing,8,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,175
+Hot Air Balloon,5,no,Sigiriya,Shoulder Season,Weekday,solo,1,Mountain,Medium,254
+Bungee Jumping,2,no,Kitulgala,Shoulder Season,Weekday,group,2,River/Lake,High,61
+Scuba Diving,5,no,Kalpitiya,Off-Season,Weekday,group,2,Beach,Low,186
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,160
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,91
+Surfing,2,no,Hikkaduwa,Peak Season,Weekend,group,5,Beach,Low,56
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,8,River/Lake,Medium,88
+Surfing,5,no,Mirissa,Peak Season,Weekend,group,2,Beach,Low,67
+Paragliding,5,yes,Ella,Peak Season,Weekend,solo,1,Mountain,High,152
+Bungee Jumping,2,no,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,High,92
+Rock Climbing,5,no,Pidurangala Rock,Shoulder Season,Weekend,group,2,Mountain,Medium,135
+Scuba Diving,5,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,196
+Surfing,1,no,Unawatuna,Peak Season,Weekday,solo,1,Beach,Low,22
+Hiking,10,no,Hanthana,Peak Season,Weekend,group,10,Mountain,Low,118
+Rock Climbing,5,no,Ella,Shoulder Season,Weekday,group,2,Mountain,Medium,94
+Surfing,5,yes,Arugam Bay,Off-Season,Weekend,solo,1,Beach,Low,85
+Bungee Jumping,2,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,High,100
+Surfing,1,no,Hikkaduwa,Peak Season,Weekday,solo,1,Beach,Low,28
+Surfing,5,no,Mirissa,Shoulder Season,Weekday,solo,1,Beach,Low,95
+Sky Diving,2,yes,Ampara,Shoulder Season,Weekend,solo,1,Urban,High,211
+Hiking,8,no,Adam's Peak,Off-Season,Weekend,group,10,Mountain,Low,86
+Surfing,1,no,Hikkaduwa,Peak Season,Weekday,solo,1,Beach,Low,24
+Paragliding,5,yes,Nuwara Eliya,Peak Season,Weekend,group,12,Mountain,High,159
+Rock Climbing,10,no,Ella,Shoulder Season,Weekend,solo,1,Mountain,Medium,135
+Hiking,8,no,Knuckles,Off-Season,Weekday,solo,1,Mountain,Low,101
+Surfing,5,no,Weligama,Peak Season,Weekday,solo,1,Beach,Low,67
+Surfing,5,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,76
+Hiking,8,no,Adam's Peak,Shoulder Season,Weekday,solo,1,Mountain,Low,97
+Rock Climbing,10,yes,Ella,Peak Season,Weekday,group,6,Mountain,Medium,144
+Surfing,5,no,Arugam Bay,Peak Season,Weekend,solo,1,Beach,Low,85
+Rock Climbing,8,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,185
+Surfing,1,no,Unawatuna,Off-Season,Weekday,solo,1,Beach,Low,49
+Surfing,1,no,Mirissa,Off-Season,Weekend,group,6,Beach,Low,23
+Surfing,2,yes,Arugam Bay,Peak Season,Weekend,group,6,Beach,Low,70
+Hiking,5,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,52
+Water Rafting,2,no,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,73
+Kayaking,5,yes,Madu River,Off-Season,Weekend,group,12,River/Lake,Low,82
+Rock Climbing,5,yes,Kitulgala,Off-Season,Weekday,solo,1,River/Lake,Medium,137
+Surfing,2,yes,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,69
+Bungee Jumping,2,no,Kitulgala,Peak Season,Weekend,group,6,River/Lake,High,60
+Hiking,5,no,Hanthana,Peak Season,Weekend,group,10,Mountain,Low,67
+Hiking,5,no,Knuckles,Peak Season,Weekend,solo,1,Mountain,Low,84
+Hiking,10,no,Little Adam's Peak,Shoulder Season,Weekend,group,6,Mountain,Low,108
+Sky Diving,5,yes,Sigiriya,Peak Season,Weekend,group,6,Mountain,High,436
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekend,group,6,River/Lake,Medium,186
+Surfing,2,yes,Arugam Bay,Off-Season,Weekend,group,8,Beach,Low,53
+Hiking,10,no,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,116
+Hiking,8,yes,Sinharaja Forest Reserve,Peak Season,Weekend,group,5,Forest/Jungle,Low,111
+Hiking,10,no,Little Adam's Peak,Shoulder Season,Weekday,group,5,Mountain,Low,100
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,group,10,Mountain,Medium,135
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,group,12,Mountain,Medium,136
+Rock Climbing,5,yes,Knuckles,Peak Season,Weekend,solo,1,Mountain,Medium,123
+Hiking,5,no,Sinharaja Forest Reserve,Shoulder Season,Weekday,solo,1,Forest/Jungle,Low,67
+Surfing,1,yes,Unawatuna,Off-Season,Weekend,group,2,Beach,Low,29
+Hiking,8,no,Knuckles,Peak Season,Weekend,group,12,Mountain,Low,100
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekend,group,5,Mountain,Medium,199
+Rock Climbing,5,no,Knuckles,Shoulder Season,Weekend,group,5,Mountain,Medium,118
+Water Rafting,5,no,Kitulgala,Peak Season,Weekday,group,12,River/Lake,Medium,108
+Surfing,5,no,Hikkaduwa,Shoulder Season,Weekend,group,10,Beach,Low,97
+Surfing,1,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,39
+Surfing,5,yes,Unawatuna,Off-Season,Weekday,group,6,Beach,Low,60
+Surfing,2,yes,Mirissa,Peak Season,Weekend,solo,1,Beach,Low,46
+Kayaking,5,no,Bolgoda,Peak Season,Weekend,group,6,River/Lake,Low,108
+Scuba Diving,8,no,Trincomalee,Off-Season,Weekday,solo,1,Beach,Low,192
+Hiking,5,no,World's End Trail,Peak Season,Weekend,group,12,Forest/Jungle,Low,66
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,group,2,River/Lake,Medium,75
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekday,group,10,Mountain,Medium,264
+Surfing,5,no,Weligama,Peak Season,Weekend,group,12,Beach,Low,88
+Surfing,1,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,23
+Rock Climbing,8,no,Horana,Peak Season,Weekend,group,2,Urban,Medium,181
+Surfing,2,no,Unawatuna,Shoulder Season,Weekend,group,12,Beach,Low,65
+Hiking,10,no,Knuckles,Peak Season,Weekday,group,2,Mountain,Low,132
+Water Rafting,2,yes,Kitulgala,Shoulder Season,Weekend,solo,1,River/Lake,Medium,62
+Rock Climbing,8,yes,Horana,Off-Season,Weekday,solo,1,Urban,Medium,138
+Hiking,10,no,Ella,Peak Season,Weekend,group,6,Mountain,Low,126
+Rock Climbing,10,yes,Horana,Peak Season,Weekday,group,6,Urban,Medium,141
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,6,River/Lake,Medium,104
+Paragliding,5,no,Nuwara Eliya,Peak Season,Weekday,group,5,Mountain,High,183
+Hiking,5,no,Hanthana,Peak Season,Weekend,group,5,Mountain,Low,57
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,group,2,Mountain,Medium,131
+Rock Climbing,8,yes,Horana,Peak Season,Weekend,group,2,Urban,Medium,159
+Hot Air Balloon,5,no,Sigiriya,Off-Season,Weekend,solo,1,Mountain,Medium,218
+Hiking,10,no,World's End Trail,Off-Season,Weekend,solo,1,Forest/Jungle,Low,126
+Kayaking,8,no,Madu River,Peak Season,Weekday,group,2,River/Lake,Low,120
+Rock Climbing,5,yes,Horana,Peak Season,Weekend,group,5,Urban,Medium,97
+Hiking,5,yes,Little Adam's Peak,Peak Season,Weekend,group,6,Mountain,Low,54
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,group,6,River/Lake,Medium,50
+Surfing,5,no,Hikkaduwa,Peak Season,Weekday,solo,1,Beach,Low,60
+Kayaking,8,yes,Bolgoda,Peak Season,Weekend,solo,1,River/Lake,Low,124
+Surfing,5,yes,Unawatuna,Peak Season,Weekend,group,8,Beach,Low,90
+Water Rafting,2,no,Kitulgala,Peak Season,Weekday,group,5,River/Lake,Medium,49
+Surfing,5,no,Arugam Bay,Peak Season,Weekend,solo,1,Beach,Low,64
+Paragliding,5,no,Ella,Shoulder Season,Weekday,group,12,Mountain,High,134
+Hiking,8,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,117
+Surfing,2,no,Arugam Bay,Shoulder Season,Weekend,group,8,Beach,Low,33
+Bungee Jumping,1,no,Colombo,Peak Season,Weekend,solo,1,Urban,High,95
+Surfing,2,no,Mirissa,Shoulder Season,Weekend,group,6,Beach,Low,39
+Surfing,5,no,Mirissa,Peak Season,Weekend,group,2,Beach,Low,70
+Rock Climbing,8,yes,Ella,Peak Season,Weekday,group,6,Mountain,Medium,112
+Surfing,2,no,Mirissa,Peak Season,Weekend,group,2,Beach,Low,64
+Water Rafting,5,no,Kitulgala,Off-Season,Weekend,group,6,River/Lake,Medium,80
+Hiking,5,no,Sinharaja Forest Reserve,Off-Season,Weekend,group,10,Forest/Jungle,Low,55
+Hiking,5,no,World's End Trail,Shoulder Season,Weekday,solo,1,Forest/Jungle,Low,74
+Surfing,1,no,Mirissa,Peak Season,Weekend,group,12,Beach,Low,50
+Hiking,5,no,Ella,Peak Season,Weekday,group,2,Mountain,Low,80
+Scuba Diving,8,no,Kalpitiya,Off-Season,Weekday,group,2,Beach,Low,221
+Hiking,10,no,World's End Trail,Peak Season,Weekend,group,8,Forest/Jungle,Low,126
+Hiking,10,no,Hanthana,Peak Season,Weekday,solo,1,Mountain,Low,117
+Hiking,10,no,Ella,Peak Season,Weekday,group,6,Mountain,Low,122
+Hiking,8,no,Knuckles,Peak Season,Weekend,group,5,Mountain,Low,103
+Rock Climbing,5,yes,Knuckles,Peak Season,Weekday,solo,1,Mountain,Medium,89
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,group,5,Mountain,Medium,273
+Water Rafting,5,no,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,100
+Water Rafting,5,no,Kitulgala,Peak Season,Weekend,group,6,River/Lake,Medium,106
+Hiking,8,no,Sinharaja Forest Reserve,Shoulder Season,Weekend,group,12,Forest/Jungle,Low,101
+Paragliding,5,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,High,164
+Scuba Diving,5,yes,Batticaloa,Peak Season,Weekend,solo,1,Beach,Low,167
+Hiking,8,no,Knuckles,Shoulder Season,Weekday,group,8,Mountain,Low,86
+Kayaking,2,no,Bentota,Peak Season,Weekend,solo,1,Beach,Low,61
+Hot Air Balloon,8,yes,Sigiriya,Peak Season,Weekend,group,2,Mountain,Medium,261
+Hiking,8,no,World's End Trail,Peak Season,Weekend,group,5,Forest/Jungle,Low,103
+Hiking,8,no,Ella,Peak Season,Weekend,group,2,Mountain,Low,96
+Rock Climbing,10,yes,Horana,Shoulder Season,Weekend,group,5,Urban,Medium,176
+Hiking,5,no,Ella,Shoulder Season,Weekend,solo,1,Mountain,Low,54
+Paragliding,5,no,Kalpitiya,Peak Season,Weekday,group,10,Beach,High,132
+Surfing,1,no,Arugam Bay,Shoulder Season,Weekend,group,10,Beach,Low,49
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,79
+Hiking,10,no,Adam's Peak,Shoulder Season,Weekday,group,5,Mountain,Low,101
+Kayaking,8,no,Kalutara,Peak Season,Weekend,solo,1,River/Lake,Low,141
+Surfing,2,yes,Weligama,Off-Season,Weekday,group,2,Beach,Low,31
+Surfing,2,no,Unawatuna,Peak Season,Weekend,solo,1,Beach,Low,54
+Hiking,5,no,World's End Trail,Peak Season,Weekend,solo,1,Forest/Jungle,Low,78
+Rock Climbing,10,yes,Kitulgala,Peak Season,Weekend,group,5,River/Lake,Medium,158
+Paragliding,2,no,Ella,Peak Season,Weekday,group,6,Mountain,High,108
+Hiking,5,no,Knuckles,Peak Season,Weekend,group,12,Mountain,Low,86
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekday,group,6,Mountain,Medium,188
+Surfing,5,no,Arugam Bay,Peak Season,Weekend,solo,1,Beach,Low,73
+Hiking,5,no,Sinharaja Forest Reserve,Peak Season,Weekend,group,12,Forest/Jungle,Low,79
+Kayaking,8,yes,Bolgoda,Off-Season,Weekend,solo,1,River/Lake,Low,145
+Hiking,10,no,World's End Trail,Peak Season,Weekday,group,12,Forest/Jungle,Low,123
+Surfing,2,no,Arugam Bay,Peak Season,Weekday,group,5,Beach,Low,63
+Surfing,1,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,42
+Surfing,1,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,53
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekday,group,6,Mountain,Medium,179
+Surfing,5,no,Hikkaduwa,Peak Season,Weekday,group,6,Beach,Low,62
+Bungee Jumping,1,no,Ella,Peak Season,Weekend,group,12,Mountain,High,89
+Hot Air Balloon,8,no,Sigiriya,Off-Season,Weekend,group,6,Mountain,Medium,282
+Kayaking,2,no,Madu River,Peak Season,Weekday,group,2,River/Lake,Low,47
+Rock Climbing,8,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,172
+Kayaking,2,no,Bentota,Peak Season,Weekday,group,2,Beach,Low,70
+Surfing,5,yes,Weligama,Off-Season,Weekend,solo,1,Beach,Low,99
+Rock Climbing,8,no,Ella,Off-Season,Weekend,group,5,Mountain,Medium,146
+Rock Climbing,8,no,Ella,Off-Season,Weekend,group,5,Mountain,Medium,190
+Hot Air Balloon,8,no,Sigiriya,Shoulder Season,Weekend,solo,1,Mountain,Medium,273
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,12,River/Lake,Medium,40
+Paragliding,5,no,Kalpitiya,Peak Season,Weekend,solo,1,Beach,High,125
+Scuba Diving,8,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,244
+Kayaking,5,yes,Kalpitiya,Peak Season,Weekday,solo,1,Beach,Low,83
+Hot Air Balloon,8,no,Sigiriya,Shoulder Season,Weekend,solo,1,Mountain,Medium,293
+Paragliding,2,no,Ella,Peak Season,Weekday,group,5,Mountain,High,160
+Scuba Diving,8,yes,Trincomalee,Peak Season,Weekend,solo,1,Beach,Low,238
+Hiking,5,no,Hanthana,Peak Season,Weekend,group,6,Mountain,Low,51
+Hiking,5,yes,Ella,Peak Season,Weekday,solo,1,Mountain,Low,65
+Rock Climbing,8,yes,Ella,Peak Season,Weekend,group,6,Mountain,Medium,151
+Surfing,1,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,29
+Rock Climbing,10,yes,Pidurangala Rock,Shoulder Season,Weekend,group,8,Mountain,Medium,160
+Hiking,10,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,129
+Surfing,5,no,Arugam Bay,Off-Season,Weekend,group,6,Beach,Low,95
+Hiking,5,yes,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,74
+Kayaking,8,yes,Madu River,Shoulder Season,Weekend,group,6,River/Lake,Low,119
+Surfing,2,no,Weligama,Peak Season,Weekday,solo,1,Beach,Low,62
+Hiking,8,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,89
+Hiking,5,no,Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,69
+Surfing,5,no,Arugam Bay,Peak Season,Weekend,group,6,Beach,Low,67
+Sky Diving,2,yes,Sigiriya,Peak Season,Weekend,group,10,Mountain,High,296
+Paragliding,5,no,Ella,Peak Season,Weekend,solo,1,Mountain,High,171
+Surfing,1,no,Weligama,Peak Season,Weekend,solo,1,Beach,Low,56
+Hiking,8,no,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,97
+Rock Climbing,8,yes,Ella,Peak Season,Weekday,group,10,Mountain,Medium,166
+Paragliding,5,no,Ella,Peak Season,Weekend,group,8,Mountain,High,157
+Scuba Diving,8,no,Kalpitiya,Peak Season,Weekday,solo,1,Beach,Low,194
+Rock Climbing,10,yes,Knuckles,Peak Season,Weekday,group,12,Mountain,Medium,185
+Surfing,1,no,Mirissa,Peak Season,Weekday,group,8,Beach,Low,26
+Surfing,1,no,Weligama,Shoulder Season,Weekend,group,12,Beach,Low,45
+Surfing,2,no,Weligama,Peak Season,Weekend,group,12,Beach,Low,32
+Hot Air Balloon,5,yes,Sigiriya,Peak Season,Weekend,group,2,Mountain,Medium,240
+Surfing,2,yes,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,57
+Sky Diving,2,yes,Ella,Peak Season,Weekend,solo,1,Mountain,High,324
+Kayaking,8,yes,Bentota,Peak Season,Weekend,group,6,Beach,Low,111
+Surfing,2,no,Mirissa,Peak Season,Weekday,solo,1,Beach,Low,47
+Hiking,5,no,Sinharaja Forest Reserve,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,51
+Paragliding,5,no,Nuwara Eliya,Off-Season,Weekend,solo,1,Mountain,High,183
+Kayaking,8,no,Kalutara,Off-Season,Weekend,group,5,River/Lake,Low,100
+Rock Climbing,8,yes,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,159
+Surfing,1,yes,Arugam Bay,Peak Season,Weekday,solo,1,Beach,Low,37
+Hiking,8,no,Adam's Peak,Off-Season,Weekend,solo,1,Mountain,Low,98
+Rock Climbing,10,yes,Ella,Off-Season,Weekend,solo,1,Mountain,Medium,146
+Surfing,5,yes,Hikkaduwa,Off-Season,Weekend,group,10,Beach,Low,99
+Hiking,10,no,Sinharaja Forest Reserve,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,100
+Rock Climbing,8,no,Kitulgala,Peak Season,Weekend,group,2,River/Lake,Medium,112
+Rock Climbing,10,yes,Horana,Peak Season,Weekend,group,12,Urban,Medium,183
+Water Rafting,5,yes,Kitulgala,Shoulder Season,Weekday,solo,1,River/Lake,Medium,113
+Hiking,8,yes,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,117
+Surfing,1,no,Mirissa,Shoulder Season,Weekend,solo,1,Beach,Low,27
+Kayaking,2,no,Bolgoda,Peak Season,Weekend,solo,1,River/Lake,Low,71
+Hiking,10,no,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,120
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,group,2,Mountain,Medium,230
+Hiking,5,yes,Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,53
+Surfing,1,yes,Mirissa,Shoulder Season,Weekday,solo,1,Beach,Low,51
+Surfing,5,no,Hikkaduwa,Peak Season,Weekend,solo,1,Beach,Low,98
+Surfing,5,no,Mirissa,Shoulder Season,Weekend,solo,1,Beach,Low,86
+Surfing,2,no,Arugam Bay,Off-Season,Weekend,group,5,Beach,Low,36
+Rock Climbing,10,yes,Ella,Peak Season,Weekend,solo,1,Mountain,Medium,142
+Scuba Diving,5,no,Batticaloa,Peak Season,Weekend,group,10,Beach,Low,143
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekend,solo,1,Mountain,Medium,142
+Surfing,2,no,Weligama,Peak Season,Weekday,solo,1,Beach,Low,44
+Surfing,5,no,Unawatuna,Shoulder Season,Weekday,solo,1,Beach,Low,67
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekend,group,10,River/Lake,Medium,89
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,117
+Hiking,5,no,World's End Trail,Peak Season,Weekday,solo,1,Forest/Jungle,Low,61
+Kayaking,5,no,Bentota,Off-Season,Weekday,group,8,Beach,Low,72
+Hot Air Balloon,5,no,Sigiriya,Shoulder Season,Weekday,solo,1,Mountain,Medium,237
+Surfing,1,no,Weligama,Peak Season,Weekday,group,2,Beach,Low,25
+Surfing,1,no,Mirissa,Off-Season,Weekend,group,12,Beach,Low,55
+Hiking,5,yes,Little Adam's Peak,Off-Season,Weekday,group,8,Mountain,Low,66
+Bungee Jumping,1,no,Colombo,Peak Season,Weekend,solo,1,Urban,High,58
+Surfing,2,no,Arugam Bay,Peak Season,Weekend,solo,1,Beach,Low,68
+Water Rafting,2,yes,Kitulgala,Off-Season,Weekend,solo,1,River/Lake,Medium,67
+Surfing,5,yes,Weligama,Peak Season,Weekday,solo,1,Beach,Low,90
+Surfing,5,yes,Arugam Bay,Off-Season,Weekend,solo,1,Beach,Low,73
+Hiking,10,no,Little Adam's Peak,Peak Season,Weekend,group,8,Mountain,Low,135
+Bungee Jumping,2,no,Knuckles,Peak Season,Weekday,group,10,Mountain,High,99
+Hot Air Balloon,8,yes,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,239
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,125
+Kayaking,2,no,Bentota,Shoulder Season,Weekend,solo,1,Beach,Low,50
+Scuba Diving,5,no,Trincomalee,Peak Season,Weekend,group,12,Beach,Low,213
+Hiking,5,no,Hanthana,Peak Season,Weekday,solo,1,Mountain,Low,75
+Sky Diving,5,no,Ampara,Shoulder Season,Weekday,solo,1,Urban,High,414
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,solo,1,River/Lake,Medium,113
+Scuba Diving,8,no,Batticaloa,Shoulder Season,Weekend,group,5,Beach,Low,175
+Rock Climbing,5,yes,Pidurangala Rock,Shoulder Season,Weekend,solo,1,Mountain,Medium,157
+Hiking,10,yes,Horton Plains National Park,Peak Season,Weekend,solo,1,Forest/Jungle,Low,103
+Hiking,8,yes,Little Adam's Peak,Peak Season,Weekend,solo,1,Mountain,Low,109
+Scuba Diving,8,no,Trincomalee,Peak Season,Weekday,group,8,Beach,Low,204
+Rock Climbing,10,no,Kitulgala,Peak Season,Weekday,group,2,River/Lake,Medium,140
+Surfing,5,no,Unawatuna,Peak Season,Weekday,group,2,Beach,Low,83
+Sky Diving,2,yes,Ampara,Peak Season,Weekend,group,5,Urban,High,405
+Scuba Diving,5,no,Kalpitiya,Peak Season,Weekday,solo,1,Beach,Low,160
+Hiking,8,no,Sinharaja Forest Reserve,Shoulder Season,Weekend,group,6,Forest/Jungle,Low,105
+Water Rafting,5,yes,Kitulgala,Off-Season,Weekend,group,12,River/Lake,Medium,104
+Rock Climbing,10,yes,Kitulgala,Off-Season,Weekday,group,12,River/Lake,Medium,187
+Scuba Diving,8,no,Trincomalee,Peak Season,Weekday,solo,1,Beach,Low,203
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekday,solo,1,River/Lake,Medium,78
+Hot Air Balloon,8,yes,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,282
+Rock Climbing,8,yes,Horana,Peak Season,Weekend,group,5,Urban,Medium,123
+Hiking,5,no,Knuckles,Peak Season,Weekend,group,10,Mountain,Low,69
+Hiking,10,no,Hanthana,Peak Season,Weekend,solo,1,Mountain,Low,127
+Rock Climbing,5,yes,Pidurangala Rock,Shoulder Season,Weekday,group,2,Mountain,Medium,135
+Sky Diving,5,yes,Ampara,Peak Season,Weekday,solo,1,Urban,High,319
+Rock Climbing,10,yes,Pidurangala Rock,Shoulder Season,Weekend,solo,1,Mountain,Medium,209
+Water Rafting,2,no,Kitulgala,Peak Season,Weekday,group,6,River/Lake,Medium,58
+Hiking,10,no,Hanthana,Peak Season,Weekday,group,5,Mountain,Low,115
+Hiking,8,no,Ella,Peak Season,Weekend,solo,1,Mountain,Low,83
+Rock Climbing,8,yes,Knuckles,Peak Season,Weekday,group,2,Mountain,Medium,111
+Hiking,10,no,Sinharaja Forest Reserve,Shoulder Season,Weekend,solo,1,Forest/Jungle,Low,129
+Hiking,5,no,Little Adam's Peak,Peak Season,Weekday,solo,1,Mountain,Low,85
+Bungee Jumping,1,yes,Ella,Peak Season,Weekend,group,6,Mountain,High,65
+Kayaking,8,no,Bolgoda,Peak Season,Weekend,group,5,River/Lake,Low,109
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekend,group,5,River/Lake,Medium,121
+Rock Climbing,8,no,Knuckles,Shoulder Season,Weekend,group,5,Mountain,Medium,146
+Surfing,5,no,Unawatuna,Peak Season,Weekday,group,8,Beach,Low,87
+Surfing,5,no,Arugam Bay,Off-Season,Weekend,group,6,Beach,Low,90
+Scuba Diving,5,no,Hikkaduwa,Shoulder Season,Weekend,group,8,Beach,Low,158
+Scuba Diving,8,no,Kalpitiya,Peak Season,Weekday,group,10,Beach,Low,173
+Rock Climbing,5,yes,Pidurangala Rock,Peak Season,Weekday,group,5,Mountain,Medium,130
+Water Rafting,2,no,Kitulgala,Off-Season,Weekday,solo,1,River/Lake,Medium,78
+Hiking,8,no,Ella,Peak Season,Weekend,solo,1,Mountain,Low,107
+Hiking,10,no,Ella,Shoulder Season,Weekend,group,12,Mountain,Low,116
+Rock Climbing,8,yes,Kitulgala,Peak Season,Weekend,group,5,River/Lake,Medium,161
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,group,12,Mountain,Medium,190
+Surfing,5,no,Mirissa,Peak Season,Weekend,solo,1,Beach,Low,87
+Hiking,5,no,Horton Plains National Park,Peak Season,Weekend,group,8,Forest/Jungle,Low,88
+Water Rafting,5,yes,Kitulgala,Peak Season,Weekend,group,2,River/Lake,Medium,108
+Paragliding,5,no,Ella,Shoulder Season,Weekend,group,5,Mountain,High,175
+Hiking,8,yes,Adam's Peak,Shoulder Season,Weekday,solo,1,Mountain,Low,119
+Surfing,1,no,Arugam Bay,Peak Season,Weekday,group,12,Beach,Low,24
+Surfing,2,no,Arugam Bay,Shoulder Season,Weekday,group,12,Beach,Low,37
+Bungee Jumping,2,no,Colombo,Peak Season,Weekend,group,5,Urban,High,63
+Water Rafting,2,yes,Kitulgala,Peak Season,Weekday,group,10,River/Lake,Medium,58
+Hot Air Balloon,5,no,Sigiriya,Peak Season,Weekend,solo,1,Mountain,Medium,218
+Surfing,5,no,Arugam Bay,Peak Season,Weekend,group,12,Beach,Low,68
+Scuba Diving,8,no,Kalpitiya,Off-Season,Weekend,solo,1,Beach,Low,265
+Bungee Jumping,1,no,Colombo,Shoulder Season,Weekend,solo,1,Urban,High,62
+Hiking,10,no,Horton Plains National Park,Peak Season,Weekend,group,2,Forest/Jungle,Low,114
+Bungee Jumping,1,no,Colombo,Peak Season,Weekday,group,12,Urban,High,57
+Bungee Jumping,1,no,Colombo,Shoulder Season,Weekend,solo,1,Urban,High,63
+Rock Climbing,8,no,Horana,Off-Season,Weekday,solo,1,Urban,Medium,122
+Hiking,5,no,Knuckles,Peak Season,Weekend,group,12,Mountain,Low,69
