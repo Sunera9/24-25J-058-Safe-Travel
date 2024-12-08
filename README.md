@@ -47,7 +47,7 @@ whether hiking, biking, or exploring nature
 ```
 
 # Compoent Diagram - 
-• MERN STACK
+
 <p align="center">
    <img src ="https://github.com/user-attachments/assets/e7a9bb66-f0cd-4238-a810-6d4b75f8b090">
 
