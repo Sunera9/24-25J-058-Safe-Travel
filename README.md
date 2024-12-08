@@ -46,10 +46,11 @@ whether hiking, biking, or exploring nature
 
 ```
 
-# Technologies used - 
+# Compoent Diagram - 
 • MERN STACK
 <p align="center">
-    <img src="https://www.educative.io/api/edpresso/shot/5266982947520512/image/6392882854363136" alt="Logo" >
+   <img src ="https://github.com/user-attachments/assets/e7a9bb66-f0cd-4238-a810-6d4b75f8b090">
+
 </p>
 
 <br>
