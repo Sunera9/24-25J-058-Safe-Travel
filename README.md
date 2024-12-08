@@ -10,45 +10,36 @@
 
 # Brief Description of  The Research Problem -
 ```
-In Sri Lanka, tourism stands as one of the foremost revenue-generating sectors,
-attracting visitors from all corners of the globe to experience its rich cultural heritage,
-breathtaking landscapes, and warm hospitality. yet many tourists encounter difficulties
-such as overpriced goods and scams perpetrated by locals.
-However, there are many problems that tourists face when traveling in a country. One
-of the main issues is the language barrier. In some developing countries, the lack of
-English fluency due to limited education can prevent effective communication with
-tourists. This can lead to misunderstandings, fights, or tourists being easily scammed
-when buying items.
-Another issue arises when traveling to less populated areas for activities such as hiking.
-Most GPS applications do not provide accurate routes to these destinations, making it
-easy for tourists to get lost.
-Additionally, local foods can be very different from what tourists are used to. They need
-to be cautious when trying these foods, as they might cause allergic reactions or illness.
+hen tourists visit Sri Lanka, they often opt to sample local cuisine from small, local vendors 
+rather than large restaurants. However, it can be challenging to obtain information about local 
+food items because there is no specific system for doing so. As a result, tourists may need to 
+spend a lot of time searching online for information about local foods. This creates difficulties 
+for tourists trying to experience local cuisine while traveling in the country. It is possible to 
+identify several problems that have led to this situation.
+
+➢ How to quickly get information about a specific food item?
+➢ How to get the right information about food despite the language barrier?
+➢How can tourists know if the food contains any allergens?
+➢ How to find out how much of certain ingredients, such as sugar, are in the food?
+➢ How to determine if the food is safe to eat or not?
+
 ```
 
 # Brief Description of  The Research Solution -
 ```
-This app helps tourists identify if a local person is likely to be aggressive, neutral, or
-friendly by analyzing conversations with natural language processing. It evaluates word
-usage to make assumptions about their character.
-The Medical Allergies and Food Safety Detection feature assists tourists in making safe
-food choices. Users can input their medical conditions and allergies, and the app will
-analyze food images to identify ingredients and provide safety alerts.
-The Overpriced Item Detection feature helps tourists avoid overpaying by collecting
-price data and estimating average prices. Users can take a photo of an item, and the
-app will identify it and display the average price to help them make informed decisions.
-The navigation map uses GPS data to offer multiple route choices through different
-terrains. Using machine learning, it selects the best route based on user preferences.
-The map displays all routes for easy comparison, ensuring a safe and enjoyable trip
-whether hiking, biking, or exploring nature
+To develop a reliable and user-friendly system  that enables tourists to independently 
+identify the ingredients of local foods and assess their safety and compatibility with their 
+personal health conditions, thereby preventing food poisoning and enhancing their overall travel 
+experience.
+
 
 ```
 
 # Compoent Diagram - 
 
 <p align="center">
-   <img src ="https://github.com/user-attachments/assets/e7a9bb66-f0cd-4238-a810-6d4b75f8b090">
-
+   <img src ="https://github.com/user-attachments/assets/c8b5ef15-1652-41df-91d9-8cbcaff92395">
+ 
 </p>
 
 <br>
