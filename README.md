@@ -10,30 +10,40 @@
 | XXXXXXXXXX         | ITXXXXXXXX          | XXX XXXXXXXX         | IT21XXXXXX@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |                     
 
 
-# Brief Description of Project -
+# Brief Description of  The Research Problem -
 ```
-The project is done as per the request of the co-owner of Shantha Motors. The shop is in Mawanella 
-with a manager and three other staff members who manage all the activities and transactions 
-manually. 
+In Sri Lanka, tourism stands as one of the foremost revenue-generating sectors,
+attracting visitors from all corners of the globe to experience its rich cultural heritage,
+breathtaking landscapes, and warm hospitality. yet many tourists encounter difficulties
+such as overpriced goods and scams perpetrated by locals.
+However, there are many problems that tourists face when traveling in a country. One
+of the main issues is the language barrier. In some developing countries, the lack of
+English fluency due to limited education can prevent effective communication with
+tourists. This can lead to misunderstandings, fights, or tourists being easily scammed
+when buying items.
+Another issue arises when traveling to less populated areas for activities such as hiking.
+Most GPS applications do not provide accurate routes to these destinations, making it
+easy for tourists to get lost.
+Additionally, local foods can be very different from what tourists are used to. They need
+to be cautious when trying these foods, as they might cause allergic reactions or illness.
+```
 
-The system is designed to-
-➢ Computerize all the functions and transactions of daily activities.
-➢ Store data in an efficient manner and to maintain a user and client-friendly environment.
+# Brief Description of  The Research Solution -
+```
+This app helps tourists identify if a local person is likely to be aggressive, neutral, or
+friendly by analyzing conversations with natural language processing. It evaluates word
+usage to make assumptions about their character.
+The Medical Allergies and Food Safety Detection feature assists tourists in making safe
+food choices. Users can input their medical conditions and allergies, and the app will
+analyze food images to identify ingredients and provide safety alerts.
+The Overpriced Item Detection feature helps tourists avoid overpaying by collecting
+price data and estimating average prices. Users can take a photo of an item, and the
+app will identify it and display the average price to help them make informed decisions.
+The navigation map uses GPS data to offer multiple route choices through different
+terrains. Using machine learning, it selects the best route based on user preferences.
+The map displays all routes for easy comparison, ensuring a safe and enjoyable trip
+whether hiking, biking, or exploring nature
 
-The main problems identified were- 
-• Not having a proper storage system for data.
-• Details being filled out manually and stored in files, which has caused loss of data.
-• Not having a proper billing system and payment method.
-• Problems occurred while managing other functionalities such as managing utility bills
-inventory control, renting out vehicles, client services, supplier management etc.
-
-We as a team analyzed the client’s requirements and selected this project as the requirements were 
-able to be completed within the given time span and due to the vast area of functionalities which 
-would help us learn and adapt to the industrial standards. It is also beneficial for the organization 
-as the system maintains a proper database where all the data will be stored in one place. It will be 
-convenient for the manager to manage and assign functions to the employees from one source, and 
-to organize the daily activities in an efficient manner as the system consists of all the management 
-functions the client has requested.
 ```
 
 # Technologies used - 
