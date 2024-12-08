@@ -5,9 +5,7 @@
 | Name with initials | Registration Number | Contact Phone Number | Email                 | Badge         |
 | :---               |     :---:           |          :---:       |         :---:         |       :---:   |
 | Basnayaka B.M.M.S  | IT21215506          | 070 3735275          | IT21215506@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Leader-red)     |
-| XXXXXXXXXX         | ITXXXXXXXX          | XXX XXXXXXXX         | IT21XXXXXX@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |
-| XXXXXXXXXX         | ITXXXXXXXX          | XXX XXXXXXXX         | IT21XXXXXX@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |
-| XXXXXXXXXX         | ITXXXXXXXX          | XXX XXXXXXXX         | IT21XXXXXX@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |                     
+                   
 
 
 # Brief Description of  The Research Problem -
