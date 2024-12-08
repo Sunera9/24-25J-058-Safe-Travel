@@ -2,6 +2,8 @@
 
 # Project Name - Safe Travel
 # Group Number - 24-25J-058
+# Componet     - Food Safety Analysis
+
 | Name with initials | Registration Number | Contact Phone Number | Email                 | Badge         |
 | :---               |     :---:           |          :---:       |         :---:         |       :---:   |
 | Basnayaka B.M.M.S  | IT21215506          | 070 3735275          | IT21215506@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Leader-red)     |
