@@ -1,3 +1,9 @@
+# Project Name - Safe Travel
+# Group Number - 24-25J-058
+| Name with initials | Registration Number | Contact Phone Number | Email                 | Badge         |
+| :---               |     :---:           |          :---:       |         :---:         |       :---:   |
+| Liyanage E.S.T           | IT21309724          | 071 2231987         | IT21309724@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   | 
+
 # Liyanage E.S.T
 
 ## ML Base Adventures Activity Budget Estimator 
