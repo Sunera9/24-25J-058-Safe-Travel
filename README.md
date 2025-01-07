@@ -6,7 +6,7 @@
 | :---               |     :---:           |          :---:       |         :---:         |       :---:   |
 | Basnayaka B.M.M.S    | IT21215506          | 070 3735275          | IT21215506@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Leader-red)     |
 | Kumarasinghe P.K.M.S | IT21390128          | 077 8079966          | IT21390128@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |
-| XXXXXXXXXX           | ITXXXXXXXX          | XXX XXXXXXXX         | IT21XXXXXX@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |
+| Sandeepani V.G.D     | IT21264702          | 071 3123198          | IT21264702@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |
 | Liyanage E.S.T       | IT21309724          | 071 2231987          | IT21309724@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)   |                     
 
 
